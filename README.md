@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @selvaganesh19
 - 👀 I’m interested in Front End Develpoment
 - 🌱 I’m currently learning AI&ML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Website Development 
+- 📫 How to reach me Email - selvavelayutham395@gmail.com
 
 <!---
 selvaganesh19/selvaganesh19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
