@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI&ML
 - 💞️ I’m looking to collaborate with Website Development
 - 📫 How to reach me on Email - selvavelayutham395@gmail.com
-- 😊 My Portfolio Link - https://selva-portfolio19.netlify.app/
+- 😊 My Portfolio Link - https://selvaganesh19.github.io/Portfolio-React/
 
 <!---
 selvaganesh19/selvaganesh19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
