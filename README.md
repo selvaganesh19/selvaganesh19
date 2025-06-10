@@ -1,4 +1,4 @@
-👋 Hi, I’m Selvaganesh Velayutham — a creative Front-End Developer passionate about designing elegant, responsive, and user-centric websites.
+👋 Hi, I’m Selvaganesh — a creative Front-End Developer passionate about designing elegant, responsive, and user-centric websites.
 
 💻 Currently learning AI & ML to blend intelligence with great design.
 
