@@ -1,11 +1,11 @@
-👋 Hi, I’m Selvaganesh — a creative Front-End Developer passionate about designing elegant, responsive, and user-centric websites.
+# 👋 Hi, I’m Selvaganesh Velayutham (@selvaganesh19)
 
-💻 Currently learning AI & ML to blend intelligence with great design.
+🎨 I’m a passionate **Front-End Developer** focused on crafting beautiful, responsive, and user-friendly websites.  
+🤖 Currently learning and exploring **Artificial Intelligence & Machine Learning** to enhance digital experiences.  
+🌐 Open to **collaborations** on exciting **Website Development** and creative projects.  
 
-🚀 Open for collaborations in Web Development.
+📬 **Reach me** → [selvavelayutham395@gmail.com](mailto:selvavelayutham395@gmail.com)  
+🚀 **My Portfolio** → [https://selvaganesh19.github.io/Portfolio-React/](https://selvaganesh19.github.io/Portfolio-React/)  
+💼 **LinkedIn** → [https://www.linkedin.com/in/selvaganesh-velayutham-025bb1284/](https://www.linkedin.com/in/selvaganesh-velayutham-025bb1284/)
 
-📫 Email: selvavelayutham395@gmail.com  
-🌐 Portfolio: https://selvaganesh19.github.io/Portfolio-React/  
-💼 LinkedIn: https://www.linkedin.com/in/selvaganesh-velayutham-025bb1284/
-
-✨ Let’s build something amazing together!
+✨ _Let’s connect and build something awesome together!_ ✨
