@@ -9,3 +9,8 @@
 💼 **LinkedIn** → [https://www.linkedin.com/in/selvaganesh-velayutham-025bb1284/](https://www.linkedin.com/in/selvaganesh-velayutham-025bb1284/)
 
 ✨ _Let’s connect and build something awesome together!_ ✨
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/selvaganesh19/selvaganesh19/output/github-snake.svg"/>
+</p>
