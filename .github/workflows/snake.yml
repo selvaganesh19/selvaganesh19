@@ -13,13 +13,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation (Dark Mode)
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: Selvaganesh19
           outputs: |
+            ./dist/github-snake.svg
             ./dist/github-snake-dark.svg?palette=github-dark
-            palette: "github-dark"
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
