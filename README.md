@@ -16,6 +16,94 @@
 </p>
 ---
 
+## ⚒️ Competencies and Utilities
+
+### 🧑‍💻 Languages
+<div>
+  <img src="https://iconic-api.onrender.com/dark/python" width="48px" title="Python" />
+  <img src="https://iconic-api.onrender.com/dark/html" width="48px" title="HTML" />
+  <img src="https://iconic-api.onrender.com/dark/css" width="48px" title="CSS" />
+  <img src="https://iconic-api.onrender.com/dark/markdown" width="48px" title="Markdown" />
+</div>
+
+---
+
+### 🔁 Version Control
+<div>
+  <img src="https://iconic-api.onrender.com/dark/git" width="48px" title="Git" />
+  <img src="https://iconic-api.onrender.com/dark/github" width="48px" title="GitHub" />
+</div>
+
+---
+
+### 🎨 Design Tools
+<div>
+  <img src="https://iconic-api.onrender.com/dark/canva" width="48px" title="Canva" />
+  <img src="https://iconic-api.onrender.com/dark/inkscape" width="48px" title="Inkscape" />
+</div>
+
+---
+
+### 🧠 AI & Bots
+<div>
+  <img src="https://iconic-api.onrender.com/dark/chatgpt" width="48px" title="ChatGPT" />
+  <img src="https://iconic-api.onrender.com/dark/gemini" width="48px" title="Gemini" />
+  <img src="https://iconic-api.onrender.com/dark/deepseek" width="48px" title="Deepseek" />
+  <img src="https://iconic-api.onrender.com/dark/grammarly" width="48px" title="Grammarly" />
+</div>
+
+---
+
+### 💻 IDEs & Code Editors
+<div>
+  <img src="https://iconic-api.onrender.com/dark/vscode" width="48px" title="VS Code" />
+  <img src="https://iconic-api.onrender.com/dark/pycharm" width="48px" title="PyCharm" />
+  <img src="https://iconic-api.onrender.com/dark/spyder" width="48px" title="Spyder" />
+  <img src="https://iconic-api.onrender.com/dark/sublime-text" width="48px" title="Sublime Text" />
+  <img src="https://iconic-api.onrender.com/dark/replit" width="48px" title="Replit" />
+  <img src="https://iconic-api.onrender.com/dark/codepen" width="48px" title="CodePen" />
+</div>
+
+---
+
+### 🌐 Frameworks
+<div>
+  <img src="https://iconic-api.onrender.com/dark/django" width="48px" title="Django" />
+</div>
+
+---
+
+### 🚀 Hosting & Deployment
+<div>
+  <img src="https://iconic-api.onrender.com/dark/netlify" width="48px" title="Netlify" />
+  <img src="https://iconic-api.onrender.com/dark/vercel" width="48px" title="Vercel" />
+  <img src="https://iconic-api.onrender.com/dark/render" width="48px" title="Render" />
+</div>
+
+---
+
+### 📝 Writing & Blogging
+<div>
+  <img src="https://iconic-api.onrender.com/dark/devto" width="48px" title="Dev.to" />
+</div>
+
+---
+
+### 🧑‍🏫 Developer Communities
+<div>
+  <img src="https://iconic-api.onrender.com/dark/codepen" width="48px" title="CodePen" />
+  <img src="https://iconic-api.onrender.com/dark/codeforces" width="48px" title="Codeforces" />
+</div>
+
+---
+
+### 🔧 Productivity Tools
+<div>
+  <img src="https://iconic-api.onrender.com/dark/notion" width="48px" title="Notion" />
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
