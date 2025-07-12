@@ -1,7 +1,5 @@
-[<img src="https://github.com/selvaganesh19/selvaganesh19/blob/main/intro.gif?raw=true" 
-      alt="👋 Hi there! I'm Selvaganesh" 
-      title="👋 Hi there! I'm Selvaganesh" 
-      width="100%" />](https://github.com/selvaganesh19)
+![Intro GIF](https://github.com/selvaganesh19/selvaganesh19/blob/main/assets/intro.gif?raw=true)
+
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=selvaganesh19.selagvanesh19&color=00cf00)
 
