@@ -30,7 +30,7 @@
   <img src="https://iconic-api.onrender.com/dark/python" width="48px" title="Python" />
   <img src="https://iconic-api.onrender.com/dark/html" width="48px" title="HTML" />
   <img src="https://iconic-api.onrender.com/dark/css" width="48px" title="CSS" />
-  <img width="44px" alt="download" src="https://github.com/user-attachments/assets/9ef89a62-5001-43bd-9579-d49be0cbb417" />
+  <img width="46px" alt="download" src="https://github.com/user-attachments/assets/9ef89a62-5001-43bd-9579-d49be0cbb417" />
 
 
 </div>
@@ -84,7 +84,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="48px" title="Kaggle" />
 
 <!-- Google Colab -->
-<img width="88px"  alt="colab" src="https://github.com/user-attachments/assets/05b7c80a-f0f0-411a-a5f8-fc94400be14f" />
+<img width="120px" height="120px"  alt="colab" src="https://github.com/user-attachments/assets/05b7c80a-f0f0-411a-a5f8-fc94400be14f" />
 
 <!-- TensorFlow -->
 <img src="https://iconic-api.onrender.com/dark/tensorflow" width="48px" title="TensorFlow" />
