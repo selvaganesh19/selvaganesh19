@@ -65,7 +65,6 @@
 
 ### 📝 Blogging & Community
 <div>
-  <img src="https://iconic-api.onrender.com/dark/devto" width="48px" title="Dev.to" />
   <img src="https://iconic-api.onrender.com/dark/leetcode" width="48px" title="LeetCode" />
 </div>
 
