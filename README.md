@@ -30,7 +30,6 @@
   <img src="https://iconic-api.onrender.com/dark/python" width="48px" title="Python" />
   <img src="https://iconic-api.onrender.com/dark/html" width="48px" title="HTML" />
   <img src="https://iconic-api.onrender.com/dark/css" width="48px" title="CSS" />
-  <img src="https://iconic-api.onrender.com/dark/javascript" width="48px" title="JavaScript" />
 </div>
 
 ### 🔧 Version Control
