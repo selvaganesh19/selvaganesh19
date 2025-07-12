@@ -32,8 +32,9 @@
   <img src="https://iconic-api.onrender.com/dark/html" width="48px" title="HTML" />
   <img src="https://iconic-api.onrender.com/dark/css" width="48px" title="CSS" />
   <img width="45px" alt="download" src="https://github.com/user-attachments/assets/9ef89a62-5001-43bd-9579-d49be0cbb417" />
-
 </div>
+
+---
 
 ### 🔧 Version Control
 <div>
@@ -41,11 +42,15 @@
   <img src="https://iconic-api.onrender.com/dark/github" width="48px" title="GitHub" />
 </div>
 
+---
+
 ### 🎨 Design
 <div>
   <img src="https://iconic-api.onrender.com/dark/canva" width="48px" title="Canva" />
   <img src="https://iconic-api.onrender.com/dark/figma" width="48px" title="Figma" />
 </div>
+
+---
 
 ### 💻 IDEs & Editors
 <div>
@@ -55,6 +60,8 @@
   <img src="https://iconic-api.onrender.com/dark/vscode" width="48px" title="VS Code" />
 </div>
 
+---
+
 ### 🤖 AI & Productivity Tools
 <div>
   <img src="https://iconic-api.onrender.com/dark/github" width="48px" title="GitHub Copilot" />
@@ -63,17 +70,23 @@
   <img src="https://iconic-api.onrender.com/dark/deepseek" width="48px" title="Deepseek" />
 </div>
 
+---
+
 ### 📝 Blogging & Community
 <div>
   <img width="48px" alt="download" src="https://github.com/user-attachments/assets/77736a41-7559-45db-945a-b3468d870770" />
   <img src="https://iconic-api.onrender.com/dark/leetcode" width="48px" title="LeetCode" />
 </div>
 
+---
+
 ### ⚙️ Frameworks & Backend
 <div>
   <img src="https://iconic-api.onrender.com/dark/flask" width="48px" title="Flask" />
   <img src="https://iconic-api.onrender.com/dark/react" width="48px" title="React" />
 </div>
+
+---
 
 ### 🧠 Machine Learning Platforms
 <div>
@@ -83,6 +96,8 @@
   <img src="https://iconic-api.onrender.com/dark/pytorch" width="48px" title="PyTorch" />
   <img src="https://iconic-api.onrender.com/dark/jupyter" width="48px" title="Jupyter Notebook" />
 </div>
+
+---
 
 ### 🌐 Hosting & Deployment
 <div>
