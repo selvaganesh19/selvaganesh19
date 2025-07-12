@@ -17,6 +17,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/selvaganesh19/selvaganesh19/output/github-snake.svg"/>
+
 </p>
 
 ---
@@ -65,6 +66,7 @@
 
 ### 📝 Blogging & Community
 <div>
+  <img width="32" height="32" alt="download" src="https://github.com/user-attachments/assets/77736a41-7559-45db-945a-b3468d870770" />
   <img src="https://iconic-api.onrender.com/dark/leetcode" width="48px" title="LeetCode" />
 </div>
 
