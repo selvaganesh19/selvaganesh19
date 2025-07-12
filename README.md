@@ -1,4 +1,10 @@
-# 👋 Hi, I’m Selvaganesh Velayutham (@selvaganesh19)
+[<img src="https://github.com/selvaganesh19/selvaganesh19/blob/main/assets/intro.gif?raw=true" 
+      alt="👋 Hi there! I'm Selvaganesh" 
+      title="👋 Hi there! I'm Selvaganesh" 
+      width="100%" />](https://github.com/selvaganesh19)
+
+![visitors](https://vbr.nathanchung.dev/badge?page_id=selvaganesh19.selagvanesh19&color=00cf00)
+
 
 🎨 I’m a passionate **Front-End Developer** focused on crafting beautiful, responsive, and user-friendly websites.  
 🤖 Currently learning and exploring **Artificial Intelligence & Machine Learning** to enhance digital experiences.  
