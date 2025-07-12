@@ -84,7 +84,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="48px" title="Kaggle" />
 
 <!-- Google Colab -->
-<img width="662" height="138" alt="colab" src="https://github.com/user-attachments/assets/05b7c80a-f0f0-411a-a5f8-fc94400be14f" />
+<img width="48px" alt="colab" src="https://github.com/user-attachments/assets/05b7c80a-f0f0-411a-a5f8-fc94400be14f" />
 
 <!-- TensorFlow -->
 <img src="https://iconic-api.onrender.com/dark/tensorflow" width="48px" title="TensorFlow" />
