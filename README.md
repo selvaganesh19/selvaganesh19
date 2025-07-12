@@ -1,4 +1,4 @@
-[<img src="https://github.com/selvaganesh19/selvaganesh19/blob/main/assets/intro.gif?raw=true" 
+[<img src="https://github.com/selvaganesh19/selvaganesh19/blob/main/intro.gif?raw=true" 
       alt="👋 Hi there! I'm Selvaganesh" 
       title="👋 Hi there! I'm Selvaganesh" 
       width="100%" />](https://github.com/selvaganesh19)
