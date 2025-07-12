@@ -1,7 +1,6 @@
-<img width="1536" height="1024" alt="ChatGPT Image Jul 12, 2025, 07_13_30 PM" src="https://github.com/user-attachments/assets/2415295c-e56e-4c8d-b9b2-aff5f8d2f7db" />
+<img width="1352" height="547" alt="ChatGPT Image Jul 12, 2025, 07_13_30 PM" src="https://github.com/user-attachments/assets/fb7bbd2e-18f1-4bb4-84e6-564d00334286" />
 
-
-
+---
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=selvaganesh19.selagvanesh19&color=00cf00)
 
 
