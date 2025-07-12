@@ -33,7 +33,6 @@
   <img src="https://iconic-api.onrender.com/dark/css" width="48px" title="CSS" />
   <img width="45px" alt="download" src="https://github.com/user-attachments/assets/9ef89a62-5001-43bd-9579-d49be0cbb417" />
 
-
 </div>
 
 ### 🔧 Version Control
@@ -76,8 +75,6 @@
   <img src="https://iconic-api.onrender.com/dark/react" width="48px" title="React" />
 </div>
 
----
-
 ### 🧠 Machine Learning Platforms
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="48px" title="Kaggle" />
@@ -86,7 +83,6 @@
   <img src="https://iconic-api.onrender.com/dark/pytorch" width="48px" title="PyTorch" />
   <img src="https://iconic-api.onrender.com/dark/jupyter" width="48px" title="Jupyter Notebook" />
 </div>
-
 
 ### 🌐 Hosting & Deployment
 <div>
