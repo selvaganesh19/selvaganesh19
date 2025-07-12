@@ -30,7 +30,7 @@
   <img src="https://iconic-api.onrender.com/dark/python" width="48px" title="Python" />
   <img src="https://iconic-api.onrender.com/dark/html" width="48px" title="HTML" />
   <img src="https://iconic-api.onrender.com/dark/css" width="48px" title="CSS" />
-  <img width="225" height="225" alt="download" src="https://github.com/user-attachments/assets/9ef89a62-5001-43bd-9579-d49be0cbb417" />
+  <img width="48px" alt="download" src="https://github.com/user-attachments/assets/9ef89a62-5001-43bd-9579-d49be0cbb417" />
 
 
 </div>
