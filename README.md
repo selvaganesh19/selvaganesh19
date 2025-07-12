@@ -3,6 +3,7 @@
 ---
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=selvaganesh19.selagvanesh19&color=00cf00)
 
+# 👋 Hello, I’m Selvaganesh
 
 🎨 I’m a passionate **Front-End Developer** focused on crafting beautiful, responsive, and user-friendly websites.  
 🤖 Currently learning and exploring **Artificial Intelligence & Machine Learning** to enhance digital experiences.  
