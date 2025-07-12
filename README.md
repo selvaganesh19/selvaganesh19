@@ -17,8 +17,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/selvaganesh19/selvaganesh19/output/github-snake.svg"/>
-
+  <img src="https://github.com/Selvaganesh19/Selvaganesh19/blob/output/github-snake-dark.svg?palette=github-dark" />
 </p>
 
 ---
