@@ -56,7 +56,7 @@
 
 ### 🤖 AI & Productivity Tools
 <div>
-  ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?logo=github&logoColor=white)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub Copilot"/>
   <img src="https://iconic-api.onrender.com/dark/chatgpt" width="48px" title="ChatGPT" />
   <img src="https://iconic-api.onrender.com/dark/gemini" width="48px" title="Gemini" />
   <img src="https://iconic-api.onrender.com/dark/deepseek" width="48px" title="Deepseek" />
@@ -78,11 +78,9 @@
 ---
 
 ### 🧠 Machine Learning Platforms
-<!-- GitHub Copilot -->
-<img src="https://iconic-api.onrender.com/dark/github-copilot" width="48px" title="GitHub Copilot" />
 
 <!-- Kaggle -->
-<img src="https://iconic-api.onrender.com/dark/kaggle" width="48px" title="Kaggle" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="48px" title="Kaggle" />
 
 <!-- Google Colab -->
 <img src="https://iconic-api.onrender.com/dark/colab" width="48px" title="Google Colab" />
