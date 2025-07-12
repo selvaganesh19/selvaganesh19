@@ -1,4 +1,4 @@
-![Intro GIF]<img width="1536" height="1024" alt="ChatGPT Image Jul 12, 2025, 07_13_30 PM" src="https://github.com/user-attachments/assets/2415295c-e56e-4c8d-b9b2-aff5f8d2f7db" />
+<img width="1536" height="1024" alt="ChatGPT Image Jul 12, 2025, 07_13_30 PM" src="https://github.com/user-attachments/assets/2415295c-e56e-4c8d-b9b2-aff5f8d2f7db" />
 
 
 
