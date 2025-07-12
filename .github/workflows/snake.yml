@@ -19,7 +19,7 @@ jobs:
           github_user_name: Selvaganesh19
           outputs: |
             ./dist/github-snake-dark.svg?palette=github-dark
-            palette: "[#2E3440,#88C0D0,#81A1C1,#5E81AC,#BF616A]"
+            palette: "github-dark"
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
