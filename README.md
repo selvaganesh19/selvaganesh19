@@ -19,6 +19,8 @@
 
 ---
 
+### 🐍 GitHub Snake
+
 <p align="center">
   <img src="https://github.com/Selvaganesh19/Selvaganesh19/blob/output/github-snake.svg" />
 </p>
