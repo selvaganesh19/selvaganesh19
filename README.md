@@ -1,4 +1,5 @@
-![Intro GIF](https://github.com/selvaganesh19/selvaganesh19/blob/main/assets/intro.gif?raw=true)
+![Intro GIF]<img width="1536" height="1024" alt="ChatGPT Image Jul 12, 2025, 07_13_30 PM" src="https://github.com/user-attachments/assets/2415295c-e56e-4c8d-b9b2-aff5f8d2f7db" />
+
 
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=selvaganesh19.selagvanesh19&color=00cf00)
