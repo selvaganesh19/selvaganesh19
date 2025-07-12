@@ -66,7 +66,7 @@
 
 ### 📝 Blogging & Community
 <div>
-  <img width="48" alt="download" src="https://github.com/user-attachments/assets/77736a41-7559-45db-945a-b3468d870770" />
+  <img width="48px" alt="download" src="https://github.com/user-attachments/assets/77736a41-7559-45db-945a-b3468d870770" />
   <img src="https://iconic-api.onrender.com/dark/leetcode" width="48px" title="LeetCode" />
 </div>
 
@@ -74,7 +74,6 @@
 <div>
   <img src="https://iconic-api.onrender.com/dark/flask" width="48px" title="Flask" />
   <img src="https://iconic-api.onrender.com/dark/react" width="48px" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" width="40" title="Railway" />
 </div>
 
 ---
@@ -102,6 +101,7 @@
   <img src="https://iconic-api.onrender.com/dark/vercel" width="48px" title="Vercel" />
   <img src="https://iconic-api.onrender.com/dark/render" width="48px" title="Render" />
   <img src="https://iconic-api.onrender.com/dark/netlify" width="48px" title="Netlify" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" width="48px" title="Railway" />
 </div>
 
 ---
