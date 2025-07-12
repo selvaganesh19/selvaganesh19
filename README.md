@@ -30,6 +30,8 @@
   <img src="https://iconic-api.onrender.com/dark/python" width="48px" title="Python" />
   <img src="https://iconic-api.onrender.com/dark/html" width="48px" title="HTML" />
   <img src="https://iconic-api.onrender.com/dark/css" width="48px" title="CSS" />
+  <img src="https://iconic-api.onrender.com/dark/javascript" width="48px" title="JavaScript" />
+
 </div>
 
 ### 🔧 Version Control
@@ -41,6 +43,7 @@
 ### 🎨 Design
 <div>
   <img src="https://iconic-api.onrender.com/dark/canva" width="48px" title="Canva" />
+  <img src="https://iconic-api.onrender.com/dark/figma" width="48px" title="Figma" />
 </div>
 
 ### 💻 IDEs & Editors
@@ -53,6 +56,7 @@
 
 ### 🤖 AI & Productivity Tools
 <div>
+  <img src="https://iconic-api.onrender.com/dark/github-copilot" width="48px" title="GitHub Copilot" />
   <img src="https://iconic-api.onrender.com/dark/chatgpt" width="48px" title="ChatGPT" />
   <img src="https://iconic-api.onrender.com/dark/gemini" width="48px" title="Gemini" />
   <img src="https://iconic-api.onrender.com/dark/deepseek" width="48px" title="Deepseek" />
@@ -68,7 +72,30 @@
 <div>
   <img src="https://iconic-api.onrender.com/dark/flask" width="48px" title="Flask" />
   <img src="https://iconic-api.onrender.com/dark/react" width="48px" title="React" />
+  <img src="https://iconic-api.onrender.com/dark/railway" width="48px" title="Railway" />
 </div>
+
+---
+
+### 🧠 Machine Learning Platforms
+<!-- GitHub Copilot -->
+<img src="https://iconic-api.onrender.com/dark/github-copilot" width="48px" title="GitHub Copilot" />
+
+<!-- Kaggle -->
+<img src="https://iconic-api.onrender.com/dark/kaggle" width="48px" title="Kaggle" />
+
+<!-- Google Colab -->
+<img src="https://iconic-api.onrender.com/dark/colab" width="48px" title="Google Colab" />
+
+<!-- TensorFlow -->
+<img src="https://iconic-api.onrender.com/dark/tensorflow" width="48px" title="TensorFlow" />
+
+<!-- PyTorch -->
+<img src="https://iconic-api.onrender.com/dark/pytorch" width="48px" title="PyTorch" />
+
+<!-- Jupyter Notebook -->
+<img src="https://iconic-api.onrender.com/dark/jupyter" width="48px" title="Jupyter Notebook" />
+
 
 ### 🌐 Hosting & Deployment
 <div>
