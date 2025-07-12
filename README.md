@@ -79,21 +79,13 @@
 ---
 
 ### 🧠 Machine Learning Platforms
-
-<!-- Kaggle -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="48px" title="Kaggle" />
-
-<!-- Google Colab -->
-<img width="120px" height="120px"  alt="colab" src="https://github.com/user-attachments/assets/05b7c80a-f0f0-411a-a5f8-fc94400be14f" />
-
-<!-- TensorFlow -->
-<img src="https://iconic-api.onrender.com/dark/tensorflow" width="48px" title="TensorFlow" />
-
-<!-- PyTorch -->
-<img src="https://iconic-api.onrender.com/dark/pytorch" width="48px" title="PyTorch" />
-
-<!-- Jupyter Notebook -->
-<img src="https://iconic-api.onrender.com/dark/jupyter" width="48px" title="Jupyter Notebook" />
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="48px" title="Kaggle" />
+  <img width="120px" height="120px"  alt="colab" src="https://github.com/user-attachments/assets/05b7c80a-f0f0-411a-a5f8-fc94400be14f" />
+  <img src="https://iconic-api.onrender.com/dark/tensorflow" width="48px" title="TensorFlow" />
+  <img src="https://iconic-api.onrender.com/dark/pytorch" width="48px" title="PyTorch" />
+  <img src="https://iconic-api.onrender.com/dark/jupyter" width="48px" title="Jupyter Notebook" />
+</div>
 
 
 ### 🌐 Hosting & Deployment
