@@ -56,7 +56,7 @@
 
 ### 🤖 AI & Productivity Tools
 <div>
-  <img src="https://iconic-api.onrender.com/dark/github-copilot" width="48px" title="GitHub Copilot" />
+  ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?logo=github&logoColor=white)
   <img src="https://iconic-api.onrender.com/dark/chatgpt" width="48px" title="ChatGPT" />
   <img src="https://iconic-api.onrender.com/dark/gemini" width="48px" title="Gemini" />
   <img src="https://iconic-api.onrender.com/dark/deepseek" width="48px" title="Deepseek" />
