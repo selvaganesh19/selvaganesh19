@@ -56,7 +56,7 @@
 
 ### 🤖 AI & Productivity Tools
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub Copilot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub Copilot" />
   <img src="https://iconic-api.onrender.com/dark/chatgpt" width="48px" title="ChatGPT" />
   <img src="https://iconic-api.onrender.com/dark/gemini" width="48px" title="Gemini" />
   <img src="https://iconic-api.onrender.com/dark/deepseek" width="48px" title="Deepseek" />
@@ -72,7 +72,7 @@
 <div>
   <img src="https://iconic-api.onrender.com/dark/flask" width="48px" title="Flask" />
   <img src="https://iconic-api.onrender.com/dark/react" width="48px" title="React" />
-  <img src="https://iconic-api.onrender.com/dark/railway" width="48px" title="Railway" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" width="40" title="Railway" />
 </div>
 
 ---
@@ -83,7 +83,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="48px" title="Kaggle" />
 
 <!-- Google Colab -->
-<img src="https://iconic-api.onrender.com/dark/colab" width="48px" title="Google Colab" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" title="Google Colab" />
 
 <!-- TensorFlow -->
 <img src="https://iconic-api.onrender.com/dark/tensorflow" width="48px" title="TensorFlow" />
