@@ -94,7 +94,7 @@
 ### 🧠 Machine Learning Platforms
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="48px" title="Kaggle" />
-  <img width="224" height="224" alt="download" src="https://github.com/user-attachments/assets/7135deb9-771a-43a3-a07d-f2d6764be6b8" />
+  <img width="48px" alt="download" src="https://github.com/user-attachments/assets/7135deb9-771a-43a3-a07d-f2d6764be6b8" />
   <img src="https://iconic-api.onrender.com/dark/tensorflow" width="48px" title="TensorFlow" />
   <img src="https://iconic-api.onrender.com/dark/pytorch" width="48px" title="PyTorch" />
   <img src="https://iconic-api.onrender.com/dark/jupyter" width="48px" title="Jupyter Notebook" />
