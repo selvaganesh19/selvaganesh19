@@ -25,9 +25,12 @@
 
 ### 🟦 Languages
 <div>
+  <img src="https://iconic-api.onrender.com/dark/java" width="48px" title="Java" />
+  <img src="https://iconic-api.onrender.com/dark/c" width="48px" title="C" />
   <img src="https://iconic-api.onrender.com/dark/python" width="48px" title="Python" />
   <img src="https://iconic-api.onrender.com/dark/html" width="48px" title="HTML" />
   <img src="https://iconic-api.onrender.com/dark/css" width="48px" title="CSS" />
+  <img src="https://iconic-api.onrender.com/dark/javascript" width="48px" title="Java Script" />
 </div>
 
 ### 🔧 Version Control
@@ -44,7 +47,7 @@
 ### 💻 IDEs & Editors
 <div>
   <img src="https://iconic-api.onrender.com/dark/pycharm" width="48px" title="PyCharm" />
-  <img src="https://iconic-api.onrender.com/dark/intelij" width="48px" title="IntelIJ" />
+  <img src="https://iconic-api.onrender.com/dark/intellij" width="48px" title="IntellIJ" />
   <img src="https://iconic-api.onrender.com/dark/clion" width="48px" title="CLion" />
   <img src="https://iconic-api.onrender.com/dark/vscode" width="48px" title="VS Code" />
 </div>
@@ -65,6 +68,7 @@
 ### ⚙️ Frameworks & Backend
 <div>
   <img src="https://iconic-api.onrender.com/dark/flask" width="48px" title="Flask" />
+  <img src="https://iconic-api.onrender.com/dark/react" width="48px" title="React" />
 </div>
 
 ### 🌐 Hosting & Deployment
