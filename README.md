@@ -1,5 +1,4 @@
-<img width="1584px" height="500px" alt="CM" src="https://github.com/user-attachments/assets/d1ce3692-c099-420a-9668-0d6746af7e6f" />
-
+<img width="1536px" height="500px" alt="Banner" src="https://github.com/user-attachments/assets/d4df654f-a29a-4385-899e-f8d1d88ca71f" />
 
 ---
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=selvaganesh19.selagvanesh19&color=00cf00)
