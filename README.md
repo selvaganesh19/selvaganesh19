@@ -10,9 +10,10 @@
 🌐 Open to **collaborations** on exciting **Website Development** and creative projects. 
 
 ---
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_selvxsh.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/selvaganesh-velayutham) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:selvavelayutham395@gmail.com) 
 
-📬 **Reach me** → [selvavelayutham395@gmail.com](mailto:selvavelayutham395@gmail.com)  
-
+---
 ✨ _Let’s connect and build something awesome together!_ ✨
 
 ---
