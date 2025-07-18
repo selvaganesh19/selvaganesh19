@@ -120,10 +120,7 @@
 ---
 
 ### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=selvaganesh19&theme=radical&fire=FF6C6C"/>
-</p>
+![](https://nirzak-streak-stats.vercel.app/?user=selvaganesh19&theme=dark&hide_border=false)<br/>
 
 ---
 
