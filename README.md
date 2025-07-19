@@ -15,31 +15,33 @@
 
 ---
 
-<<h2 align="left">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
+<h2 align="left">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 
 <div align="left">
 
-  <a href="mailto:selvavelayutham395@gmail.com" title="Email">
+  <a href="mailto:selvavelayutham395@gmail.com" target="_blank"> 
     <img src="./gmail.png" width="40" height="40" alt="Email" style="margin: 0 20px 10px 0;" />
   </a>
 
-  <a href="https://www.instagram.com/_selvxsh.__" target="_blank" title="Instagram">
+  <a href="https://www.instagram.com/_selvxsh.__" target="_blank"> 
     <img src="./instagram.png" width="40" height="40" alt="Instagram" style="margin: 0 20px 10px 0;" />
   </a>
 
-  <a href="https://github.com/selvaganesh19" target="_blank" title="GitHub">
+  <a href="https://github.com/selvaganesh19" target="_blank"> 
     <img src="./github.png" width="40" height="40" alt="GitHub" style="margin: 0 20px 10px 0;" />
   </a>
 
-  <a href="https://www.linkedin.com/in/selvaganesh-velayutham-025bb1284" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/selvaganesh-velayutham-025bb1284" target="_blank">
     <img src="./linkedin.png" width="40" height="40" alt="LinkedIn" style="margin: 0 20px 10px 0;" />
   </a>
 
-  <a href="https://selvaganesh19.github.io/Portfolio-React/" target="_blank" title="Portfolio">
+  <a href="https://selvaganesh19.github.io/Portfolio-React/" target="_blank">
     <img src="./dev_to.png" width="40" height="40" alt="Portfolio" style="margin: 0 20px 10px 0;" />
   </a>
 
 </div>
+<br/>
+
 
 
 
