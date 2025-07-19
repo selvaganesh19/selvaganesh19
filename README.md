@@ -174,16 +174,21 @@
 
 ### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=selvaganesh19&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvaganesh19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <table>
+    <tr>
+      <td style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=selvaganesh19&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvaganesh19&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
 
 ---
 
