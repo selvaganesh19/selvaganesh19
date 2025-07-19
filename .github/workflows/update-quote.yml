@@ -1,4 +1,4 @@
-name: Update Quote
+name: 🔁 Update Quote
 
 on:
   workflow_dispatch:  #Manually trigger the workflow
