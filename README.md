@@ -3,9 +3,12 @@
 ---
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=selvaganesh19.selagvanesh19&color=00cf00)
 
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<div style="text-align: right;">
+  <img src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" width="40%" style="display: inline-block; margin-bottom: 10px;" />
 </div>
+
+<hr style="border: 1px solid lightgray; width: 100%;" />
+
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝗜'𝗺 𝗦𝗲𝗹𝘃𝗮 ✨
 
