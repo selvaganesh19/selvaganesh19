@@ -29,5 +29,5 @@ jobs:
       - name: Commit and push changes
         run: |
           git add README.md
-          git -c user.name='Kiran1689' -c user.email='kirannaragund197@gmail.com' commit -m "Update README with daily quote" -a
+          git -c user.name='selvaganesh19' -c user.email='selvavelayutham395@gmail.com' commit -m "Update README with daily quote" -a
           git push
