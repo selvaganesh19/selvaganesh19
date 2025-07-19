@@ -14,33 +14,33 @@
 🌐 Open to **collaborations** on exciting **Website Development** and creative projects. 
 
 ---
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 
-<div align="center">
+<h2 align="left">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
+
+<div align="left">
 
   <a href="mailto:selvavelayutham395@gmail.com" target="_blank"> 
-    <img src="./gmail.png" width="40" height="40" alt="selvavelayutham395@gmail.com" style="margin: 0 12px;" />
+    <img src="./gmail.png" width="40" height="40" alt="Email" style="margin: 0 20px 10px 0;" />
   </a>
 
   <a href="https://www.instagram.com/_selvxsh.__" target="_blank"> 
-    <img src="./instagram.png" width="40" height="40" alt="_selvxsh.__" style="margin: 0 12px;" />
+    <img src="./instagram.png" width="40" height="40" alt="Instagram" style="margin: 0 20px 10px 0;" />
   </a>
 
   <a href="https://github.com/selvaganesh19" target="_blank"> 
-    <img src="./github.png" width="40" height="40" alt="selvaganesh19" style="margin: 0 12px;" />
+    <img src="./github.png" width="40" height="40" alt="GitHub" style="margin: 0 20px 10px 0;" />
   </a>
 
   <a href="https://www.linkedin.com/in/selvaganesh-velayutham-025bb1284" target="_blank">
-    <img src="./linkedin.png" width="40" height="40" alt="linkedin" style="margin: 0 12px;" />
+    <img src="./linkedin.png" width="40" height="40" alt="LinkedIn" style="margin: 0 20px 10px 0;" />
   </a>
 
   <a href="https://selvaganesh19.github.io/Portfolio-React/" target="_blank">
-    <img src="./dev_to.png" width="40" height="40" alt="dev_selva" style="margin: 0 12px;" />
+    <img src="./dev_to.png" width="40" height="40" alt="Portfolio" style="margin: 0 20px 10px 0;" />
   </a>
 
 </div>
 <br/>
-
 
 
 ✨ _Let’s connect and build something awesome together!_ ✨
