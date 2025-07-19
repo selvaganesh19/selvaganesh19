@@ -18,11 +18,11 @@
 <div align="center">
 
 <a href="selvavelayutham395@gmail.com" target="_blank"> 
-<img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
+<img src="./gmail.png" width=50 height=50 alt="selvavelayutham395@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/_selvxsh.__" target="_blank"> 
-<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+<img src="./instagram.png" width=50 height=50 alt="_selvxsh.__" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.githubcom/selvaganesh19" target="_blank"> 
