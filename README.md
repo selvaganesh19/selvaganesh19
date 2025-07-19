@@ -176,18 +176,18 @@
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=selvaganesh19&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-      </td>
-      <td style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvaganesh19&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=selvaganesh19&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="200" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvaganesh19&theme=dark&hide_border=false&layout=compact" height="200" />
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com/?user=selvaganesh19&theme=dark&hide_border=false" height="200" />
 
 </div>
+
 
 
 ---
