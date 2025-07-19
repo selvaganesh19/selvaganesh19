@@ -46,8 +46,6 @@
 </p>
 
 
-
-
 ✨ _Let’s connect and build something awesome together!_ ✨
 
 ---
@@ -85,90 +83,133 @@
 
 ---
 
-## ⚒️ My Skills & Utilities
+<style>
+  .skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+  }
 
-### 🟦 Languages
-<div>
-  <img src="https://iconic-api.onrender.com/dark/java" width="48px" title="Java" />
-  <img src="https://iconic-api.onrender.com/dark/c" width="48px" title="C" />
-  <img src="https://iconic-api.onrender.com/dark/python" width="48px" title="Python" />
-  <img src="https://iconic-api.onrender.com/dark/html" width="48px" title="HTML" />
-  <img src="https://iconic-api.onrender.com/dark/css" width="48px" title="CSS" />
-  <img width="45px" alt="download" src="https://github.com/user-attachments/assets/9ef89a62-5001-43bd-9579-d49be0cbb417" />
+  .column {
+    flex: 1;
+    min-width: 300px;
+  }
+
+  .skill-section {
+    margin-bottom: 30px;
+  }
+
+  .skill-section div {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+  }
+
+  .skill-section h3 {
+    margin-bottom: 10px;
+  }
+</style>
+
+<div class="skills-container">
+
+  <!-- Left Column -->
+  <div class="column">
+
+    <div class="skill-section">
+      <h3>🟦 Languages</h3>
+      <div>
+        <img src="https://iconic-api.onrender.com/dark/java" width="48px" title="Java" />
+        <img src="https://iconic-api.onrender.com/dark/c" width="48px" title="C" />
+        <img src="https://iconic-api.onrender.com/dark/python" width="48px" title="Python" />
+        <img src="https://iconic-api.onrender.com/dark/html" width="48px" title="HTML" />
+        <img src="https://iconic-api.onrender.com/dark/css" width="48px" title="CSS" />
+        <img width="45px" alt="extra" src="https://github.com/user-attachments/assets/9ef89a62-5001-43bd-9579-d49be0cbb417" />
+      </div>
+    </div>
+
+    <div class="skill-section">
+      <h3>🔧 Version Control</h3>
+      <div>
+        <img src="https://iconic-api.onrender.com/dark/git" width="48px" title="Git" />
+        <img src="https://iconic-api.onrender.com/dark/github" width="48px" title="GitHub" />
+      </div>
+    </div>
+
+    <div class="skill-section">
+      <h3>🎨 Design</h3>
+      <div>
+        <img src="https://iconic-api.onrender.com/dark/canva" width="48px" title="Canva" />
+        <img src="https://iconic-api.onrender.com/dark/figma" width="48px" title="Figma" />
+      </div>
+    </div>
+
+    <div class="skill-section">
+      <h3>💻 IDEs & Editors</h3>
+      <div>
+        <img src="https://iconic-api.onrender.com/dark/pycharm" width="48px" title="PyCharm" />
+        <img src="https://iconic-api.onrender.com/dark/intellij" width="48px" title="IntelliJ" />
+        <img src="https://iconic-api.onrender.com/dark/clion" width="48px" title="CLion" />
+        <img src="https://iconic-api.onrender.com/dark/vscode" width="48px" title="VS Code" />
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Right Column -->
+  <div class="column">
+
+    <div class="skill-section">
+      <h3>🤖 AI & Productivity Tools</h3>
+      <div>
+        <img src="https://iconic-api.onrender.com/dark/github" width="48px" title="GitHub Copilot" />
+        <img src="https://iconic-api.onrender.com/dark/chatgpt" width="48px" title="ChatGPT" />
+        <img src="https://iconic-api.onrender.com/dark/gemini" width="48px" title="Gemini" />
+        <img src="https://iconic-api.onrender.com/dark/deepseek" width="48px" title="Deepseek" />
+      </div>
+    </div>
+
+    <div class="skill-section">
+      <h3>📝 Blogging & Community</h3>
+      <div>
+        <img width="48px" alt="download" src="https://github.com/user-attachments/assets/77736a41-7559-45db-945a-b3468d870770" />
+        <img src="https://iconic-api.onrender.com/dark/leetcode" width="48px" title="LeetCode" />
+      </div>
+    </div>
+
+    <div class="skill-section">
+      <h3>⚙️ Frameworks & Backend</h3>
+      <div>
+        <img src="https://iconic-api.onrender.com/dark/flask" width="48px" title="Flask" />
+        <img src="https://iconic-api.onrender.com/dark/react" width="48px" title="React" />
+      </div>
+    </div>
+
+    <div class="skill-section">
+      <h3>🧠 Machine Learning Platforms</h3>
+      <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="48px" title="Kaggle" />
+        <img width="48px" alt="mltool" src="https://github.com/user-attachments/assets/7135deb9-771a-43a3-a07d-f2d6764be6b8" />
+        <img src="https://iconic-api.onrender.com/dark/tensorflow" width="48px" title="TensorFlow" />
+        <img src="https://iconic-api.onrender.com/dark/pytorch" width="48px" title="PyTorch" />
+        <img src="https://iconic-api.onrender.com/dark/jupyter" width="48px" title="Jupyter Notebook" />
+      </div>
+    </div>
+
+    <div class="skill-section">
+      <h3>🌐 Hosting & Deployment</h3>
+      <div>
+        <img src="https://iconic-api.onrender.com/dark/vercel" width="48px" title="Vercel" />
+        <img src="https://iconic-api.onrender.com/dark/render" width="48px" title="Render" />
+        <img src="https://iconic-api.onrender.com/dark/netlify" width="48px" title="Netlify" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" width="48px" title="Railway" />
+      </div>
+    </div>
+
+  </div>
 </div>
 
----
-
-### 🔧 Version Control
-<div>
-  <img src="https://iconic-api.onrender.com/dark/git" width="48px" title="Git" />
-  <img src="https://iconic-api.onrender.com/dark/github" width="48px" title="GitHub" />
-</div>
-
----
-
-### 🎨 Design
-<div>
-  <img src="https://iconic-api.onrender.com/dark/canva" width="48px" title="Canva" />
-  <img src="https://iconic-api.onrender.com/dark/figma" width="48px" title="Figma" />
-</div>
-
----
-
-### 💻 IDEs & Editors
-<div>
-  <img src="https://iconic-api.onrender.com/dark/pycharm" width="48px" title="PyCharm" />
-  <img src="https://iconic-api.onrender.com/dark/intellij" width="48px" title="IntellIJ" />
-  <img src="https://iconic-api.onrender.com/dark/clion" width="48px" title="CLion" />
-  <img src="https://iconic-api.onrender.com/dark/vscode" width="48px" title="VS Code" />
-</div>
-
----
-
-### 🤖 AI & Productivity Tools
-<div>
-  <img src="https://iconic-api.onrender.com/dark/github" width="48px" title="GitHub Copilot" />
-  <img src="https://iconic-api.onrender.com/dark/chatgpt" width="48px" title="ChatGPT" />
-  <img src="https://iconic-api.onrender.com/dark/gemini" width="48px" title="Gemini" />
-  <img src="https://iconic-api.onrender.com/dark/deepseek" width="48px" title="Deepseek" />
-</div>
-
----
-
-### 📝 Blogging & Community
-<div>
-  <img width="48px" alt="download" src="https://github.com/user-attachments/assets/77736a41-7559-45db-945a-b3468d870770" />
-  <img src="https://iconic-api.onrender.com/dark/leetcode" width="48px" title="LeetCode" />
-</div>
-
----
-
-### ⚙️ Frameworks & Backend
-<div>
-  <img src="https://iconic-api.onrender.com/dark/flask" width="48px" title="Flask" />
-  <img src="https://iconic-api.onrender.com/dark/react" width="48px" title="React" />
-</div>
-
----
-
-### 🧠 Machine Learning Platforms
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="48px" title="Kaggle" />
-  <img width="48px" alt="download" src="https://github.com/user-attachments/assets/7135deb9-771a-43a3-a07d-f2d6764be6b8" />
-  <img src="https://iconic-api.onrender.com/dark/tensorflow" width="48px" title="TensorFlow" />
-  <img src="https://iconic-api.onrender.com/dark/pytorch" width="48px" title="PyTorch" />
-  <img src="https://iconic-api.onrender.com/dark/jupyter" width="48px" title="Jupyter Notebook" />
-</div>
-
----
-
-### 🌐 Hosting & Deployment
-<div>
-  <img src="https://iconic-api.onrender.com/dark/vercel" width="48px" title="Vercel" />
-  <img src="https://iconic-api.onrender.com/dark/render" width="48px" title="Render" />
-  <img src="https://iconic-api.onrender.com/dark/netlify" width="48px" title="Netlify" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" width="48px" title="Railway" />
-</div>
 
 ---
 
