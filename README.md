@@ -82,134 +82,80 @@
 
 
 ---
+<h2>⚒️ My Skills & Utilities</h2>
 
-<style>
-  .skills-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    gap: 20px;
-  }
-
-  .column {
-    flex: 1;
-    min-width: 300px;
-  }
-
-  .skill-section {
-    margin-bottom: 30px;
-  }
-
-  .skill-section div {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    align-items: center;
-  }
-
-  .skill-section h3 {
-    margin-bottom: 10px;
-  }
-</style>
-
-<div class="skills-container">
-
-  <!-- Left Column -->
-  <div class="column">
-
-    <div class="skill-section">
+<table>
+  <tr>
+    <td valign="top" width="50%">
       <h3>🟦 Languages</h3>
       <div>
-        <img src="https://iconic-api.onrender.com/dark/java" width="48px" title="Java" />
-        <img src="https://iconic-api.onrender.com/dark/c" width="48px" title="C" />
-        <img src="https://iconic-api.onrender.com/dark/python" width="48px" title="Python" />
-        <img src="https://iconic-api.onrender.com/dark/html" width="48px" title="HTML" />
-        <img src="https://iconic-api.onrender.com/dark/css" width="48px" title="CSS" />
-        <img width="45px" alt="extra" src="https://github.com/user-attachments/assets/9ef89a62-5001-43bd-9579-d49be0cbb417" />
+        <img src="https://iconic-api.onrender.com/dark/java" width="40px" title="Java" />
+        <img src="https://iconic-api.onrender.com/dark/c" width="40px" title="C" />
+        <img src="https://iconic-api.onrender.com/dark/python" width="40px" title="Python" />
+        <img src="https://iconic-api.onrender.com/dark/html" width="40px" title="HTML" />
+        <img src="https://iconic-api.onrender.com/dark/css" width="40px" title="CSS" />
       </div>
-    </div>
 
-    <div class="skill-section">
       <h3>🔧 Version Control</h3>
       <div>
-        <img src="https://iconic-api.onrender.com/dark/git" width="48px" title="Git" />
-        <img src="https://iconic-api.onrender.com/dark/github" width="48px" title="GitHub" />
+        <img src="https://iconic-api.onrender.com/dark/git" width="40px" title="Git" />
+        <img src="https://iconic-api.onrender.com/dark/github" width="40px" title="GitHub" />
       </div>
-    </div>
 
-    <div class="skill-section">
       <h3>🎨 Design</h3>
       <div>
-        <img src="https://iconic-api.onrender.com/dark/canva" width="48px" title="Canva" />
-        <img src="https://iconic-api.onrender.com/dark/figma" width="48px" title="Figma" />
+        <img src="https://iconic-api.onrender.com/dark/canva" width="40px" title="Canva" />
+        <img src="https://iconic-api.onrender.com/dark/figma" width="40px" title="Figma" />
       </div>
-    </div>
 
-    <div class="skill-section">
       <h3>💻 IDEs & Editors</h3>
       <div>
-        <img src="https://iconic-api.onrender.com/dark/pycharm" width="48px" title="PyCharm" />
-        <img src="https://iconic-api.onrender.com/dark/intellij" width="48px" title="IntelliJ" />
-        <img src="https://iconic-api.onrender.com/dark/clion" width="48px" title="CLion" />
-        <img src="https://iconic-api.onrender.com/dark/vscode" width="48px" title="VS Code" />
+        <img src="https://iconic-api.onrender.com/dark/pycharm" width="40px" title="PyCharm" />
+        <img src="https://iconic-api.onrender.com/dark/intellij" width="40px" title="IntelliJ" />
+        <img src="https://iconic-api.onrender.com/dark/clion" width="40px" title="CLion" />
+        <img src="https://iconic-api.onrender.com/dark/vscode" width="40px" title="VS Code" />
       </div>
-    </div>
+    </td>
 
-  </div>
-
-  <!-- Right Column -->
-  <div class="column">
-
-    <div class="skill-section">
-      <h3>🤖 AI & Productivity Tools</h3>
+    <td valign="top" width="50%">
+      <h3>🤖 AI & Productivity</h3>
       <div>
-        <img src="https://iconic-api.onrender.com/dark/github" width="48px" title="GitHub Copilot" />
-        <img src="https://iconic-api.onrender.com/dark/chatgpt" width="48px" title="ChatGPT" />
-        <img src="https://iconic-api.onrender.com/dark/gemini" width="48px" title="Gemini" />
-        <img src="https://iconic-api.onrender.com/dark/deepseek" width="48px" title="Deepseek" />
+        <img src="https://iconic-api.onrender.com/dark/github" width="40px" title="GitHub Copilot" />
+        <img src="https://iconic-api.onrender.com/dark/chatgpt" width="40px" title="ChatGPT" />
+        <img src="https://iconic-api.onrender.com/dark/gemini" width="40px" title="Gemini" />
+        <img src="https://iconic-api.onrender.com/dark/deepseek" width="40px" title="Deepseek" />
       </div>
-    </div>
 
-    <div class="skill-section">
       <h3>📝 Blogging & Community</h3>
       <div>
-        <img width="48px" alt="download" src="https://github.com/user-attachments/assets/77736a41-7559-45db-945a-b3468d870770" />
-        <img src="https://iconic-api.onrender.com/dark/leetcode" width="48px" title="LeetCode" />
+        <img src="https://iconic-api.onrender.com/dark/leetcode" width="40px" title="LeetCode" />
+        <!-- Add your other platform icons here -->
       </div>
-    </div>
 
-    <div class="skill-section">
       <h3>⚙️ Frameworks & Backend</h3>
       <div>
-        <img src="https://iconic-api.onrender.com/dark/flask" width="48px" title="Flask" />
-        <img src="https://iconic-api.onrender.com/dark/react" width="48px" title="React" />
+        <img src="https://iconic-api.onrender.com/dark/flask" width="40px" title="Flask" />
+        <img src="https://iconic-api.onrender.com/dark/react" width="40px" title="React" />
       </div>
-    </div>
 
-    <div class="skill-section">
-      <h3>🧠 Machine Learning Platforms</h3>
+      <h3>🧠 ML Platforms</h3>
       <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="48px" title="Kaggle" />
-        <img width="48px" alt="mltool" src="https://github.com/user-attachments/assets/7135deb9-771a-43a3-a07d-f2d6764be6b8" />
-        <img src="https://iconic-api.onrender.com/dark/tensorflow" width="48px" title="TensorFlow" />
-        <img src="https://iconic-api.onrender.com/dark/pytorch" width="48px" title="PyTorch" />
-        <img src="https://iconic-api.onrender.com/dark/jupyter" width="48px" title="Jupyter Notebook" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40px" title="Kaggle" />
+        <img src="https://iconic-api.onrender.com/dark/tensorflow" width="40px" title="TensorFlow" />
+        <img src="https://iconic-api.onrender.com/dark/pytorch" width="40px" title="PyTorch" />
+        <img src="https://iconic-api.onrender.com/dark/jupyter" width="40px" title="Jupyter" />
       </div>
-    </div>
 
-    <div class="skill-section">
       <h3>🌐 Hosting & Deployment</h3>
       <div>
-        <img src="https://iconic-api.onrender.com/dark/vercel" width="48px" title="Vercel" />
-        <img src="https://iconic-api.onrender.com/dark/render" width="48px" title="Render" />
-        <img src="https://iconic-api.onrender.com/dark/netlify" width="48px" title="Netlify" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" width="48px" title="Railway" />
+        <img src="https://iconic-api.onrender.com/dark/vercel" width="40px" title="Vercel" />
+        <img src="https://iconic-api.onrender.com/dark/render" width="40px" title="Render" />
+        <img src="https://iconic-api.onrender.com/dark/netlify" width="40px" title="Netlify" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" width="40px" title="Railway" />
       </div>
-    </div>
-
-  </div>
-</div>
-
+    </td>
+  </tr>
+</table>
 
 ---
 
