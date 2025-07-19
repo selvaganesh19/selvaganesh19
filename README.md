@@ -7,8 +7,6 @@
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-<br clear="all" />
-<hr style="border: 1px solid lightgray; width: 100%;" />
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝗜'𝗺 𝗦𝗲𝗹𝘃𝗮 ✨
 
