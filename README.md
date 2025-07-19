@@ -38,14 +38,21 @@
 <br />
 
 <h3 align="left">💡 Skills & Current Learnings</h3>
+
 <ul align="left">
-  <li>🤖 <strong>Machine Learning & AI</strong> – Strengthening core concepts and exploring real-world applications.</li>
-  <li>⚛️ <strong>React.js</strong> – Building scalable UIs using advanced patterns and modern state management (Redux, Context API, Zustand).</li>
-  <li>☁️ <strong>Cloud Computing (AWS & Azure)</strong> – Enhancing skills in deployment, storage, and cloud-based architecture design.</li>
-  <li>🧠 <strong>Deep Learning Frameworks</strong> – Practicing with TensorFlow and PyTorch for model building and experimentation.</li>
-  <li>🌐 <strong>API Development</strong> – Working with RESTful and GraphQL APIs for seamless backend integration.</li>
-  <li>🛠️ <strong>DevOps Fundamentals</strong> – Exploring CI/CD pipelines, Docker, and Kubernetes for streamlined development workflows.</li>
+  <li>🤖 <strong>Machine Learning & AI</strong><br>Core concepts, model training, and real-world applications.</li><br>
+
+  <li>⚛️ <strong>React.js</strong><br>Component architecture, advanced patterns, and state management (Redux, Context, Zustand).</li><br>
+
+  <li>☁️ <strong>Cloud Computing (AWS & Azure)</strong><br>Deployments, serverless functions, and storage solutions.</li><br>
+
+  <li>🧠 <strong>Deep Learning</strong><br>Model building using TensorFlow and PyTorch.</li><br>
+
+  <li>🌐 <strong>API Development</strong><br>Designing and integrating RESTful & GraphQL APIs.</li><br>
+
+  <li>🛠️ <strong>DevOps</strong><br>Docker, Kubernetes, and CI/CD pipeline basics.</li>
 </ul>
+
 
 ---
 
