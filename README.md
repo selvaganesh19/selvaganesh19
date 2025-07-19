@@ -34,7 +34,7 @@
 </a>
 
 <a href="https://selvaganesh19.github.io/Portfolio-React/" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
+<img src="./dev_to.png" width=50 height=50 alt="dev_selva" style="margin-bottom: 5px;" />
 </a>
 </div>
 <br/>
