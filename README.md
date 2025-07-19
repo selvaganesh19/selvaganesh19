@@ -188,9 +188,11 @@
 ---
 
 ### 🔥 Contribution Streak
+
 <p align="center">
-  ![](https://nirzak-streak-stats.vercel.app/?user=selvaganesh19&theme=dark&hide_border=false)<br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=selvaganesh19&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
+
 
 ---
 
