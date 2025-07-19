@@ -26,7 +26,7 @@
 </a>
 
 <a href="https://www.githubcom/selvaganesh19" target="_blank"> 
-<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
+<img src="./github.png" width=50 height=50 alt="selvaganesh19" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/selvaganesh-velayutham-025bb1284" target="_blank">
