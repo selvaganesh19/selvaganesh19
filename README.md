@@ -25,7 +25,7 @@
 <img src="./instagram.png" width=50 height=50 alt="_selvxsh.__" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/selvaganesh19" target="_blank"> 
+<a href="[https://www.githubcom/selvaganesh19](https://github.com/selvaganesh19)" target="_blank"> 
 <img src="./github.png" width=50 height=50 alt="selvaganesh19" style="margin-bottom: 5px;" />
 </a>
 
