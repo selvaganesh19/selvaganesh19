@@ -27,6 +27,8 @@
   <img src="https://github.com/Selvaganesh19/Selvaganesh19/blob/output/github-snake.svg" />
 </p>
 
+---
+
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
@@ -34,6 +36,18 @@
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 <br />
+
+<h3 align="left">💡 Skills & Current Learnings</h3>
+<ul align="left">
+  <li>🤖 <strong>Machine Learning & AI</strong> – Strengthening core concepts and exploring real-world applications.</li>
+  <li>⚛️ <strong>React.js</strong> – Building scalable UIs using advanced patterns and modern state management (Redux, Context API, Zustand).</li>
+  <li>☁️ <strong>Cloud Computing (AWS & Azure)</strong> – Enhancing skills in deployment, storage, and cloud-based architecture design.</li>
+  <li>🧠 <strong>Deep Learning Frameworks</strong> – Practicing with TensorFlow and PyTorch for model building and experimentation.</li>
+  <li>🌐 <strong>API Development</strong> – Working with RESTful and GraphQL APIs for seamless backend integration.</li>
+  <li>🛠️ <strong>DevOps Fundamentals</strong> – Exploring CI/CD pipelines, Docker, and Kubernetes for streamlined development workflows.</li>
+</ul>
+
+---
 
 ## ⚒️ My Skills & Utilities
 
