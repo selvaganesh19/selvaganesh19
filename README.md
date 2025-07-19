@@ -17,26 +17,35 @@
 
 <h2 align="left">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 
+<style>
+  .icon-hover {
+    transition: transform 0.2s ease;
+  }
+  .icon-hover:hover {
+    transform: scale(1.2);
+  }
+</style>
+
 <div align="left">
 
-  <a href="mailto:selvavelayutham395@gmail.com" target="_blank"> 
-    <img src="./gmail.png" width="40" height="40" alt="Email" style="margin: 0 20px 10px 0;" />
+  <a href="mailto:selvavelayutham395@gmail.com" target="_blank" title="Email">
+    <img src="./gmail.png" width="40" height="40" alt="Email" class="icon-hover" style="margin: 0 20px 10px 0;" />
   </a>
 
-  <a href="https://www.instagram.com/_selvxsh.__" target="_blank"> 
-    <img src="./instagram.png" width="40" height="40" alt="Instagram" style="margin: 0 20px 10px 0;" />
+  <a href="https://www.instagram.com/_selvxsh.__" target="_blank" title="Instagram">
+    <img src="./instagram.png" width="40" height="40" alt="Instagram" class="icon-hover" style="margin: 0 20px 10px 0;" />
   </a>
 
-  <a href="https://github.com/selvaganesh19" target="_blank"> 
-    <img src="./github.png" width="40" height="40" alt="GitHub" style="margin: 0 20px 10px 0;" />
+  <a href="https://github.com/selvaganesh19" target="_blank" title="GitHub">
+    <img src="./github.png" width="40" height="40" alt="GitHub" class="icon-hover" style="margin: 0 20px 10px 0;" />
   </a>
 
-  <a href="https://www.linkedin.com/in/selvaganesh-velayutham-025bb1284" target="_blank">
-    <img src="./linkedin.png" width="40" height="40" alt="LinkedIn" style="margin: 0 20px 10px 0;" />
+  <a href="https://www.linkedin.com/in/selvaganesh-velayutham-025bb1284" target="_blank" title="LinkedIn">
+    <img src="./linkedin.png" width="40" height="40" alt="LinkedIn" class="icon-hover" style="margin: 0 20px 10px 0;" />
   </a>
 
-  <a href="https://selvaganesh19.github.io/Portfolio-React/" target="_blank">
-    <img src="./dev_to.png" width="40" height="40" alt="Portfolio" style="margin: 0 20px 10px 0;" />
+  <a href="https://selvaganesh19.github.io/Portfolio-React/" target="_blank" title="Portfolio">
+    <img src="./dev_to.png" width="40" height="40" alt="Portfolio" class="icon-hover" style="margin: 0 20px 10px 0;" />
   </a>
 
 </div>
