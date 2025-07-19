@@ -48,8 +48,6 @@
 
   <li>🧠 <strong>Deep Learning</strong><br>Model building using TensorFlow and PyTorch.</li><br>
 
-  <li>🌐 <strong>API Development</strong><br>Designing and integrating RESTful & GraphQL APIs.</li><br>
-
   <li>🛠️ <strong>DevOps</strong><br>Docker, Kubernetes, and CI/CD pipeline basics.</li>
 </ul>
 
