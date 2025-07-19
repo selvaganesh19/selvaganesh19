@@ -84,77 +84,78 @@
 ---
 <h2>⚒️ My Skills & Utilities</h2>
 
-<table style="width:100%; border-collapse: collapse; border: 2px solid #444;">
-  <tr style="background-color: #f0f0f0;">
-    <th>🟦 Languages</th>
-    <th>🔧 Version Control</th>
-    <th>🎨 Design</th>
-    <th>💻 IDEs & Editors</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://iconic-api.onrender.com/dark/java" width="40px" title="Java" />
-      <img src="https://iconic-api.onrender.com/dark/c" width="40px" title="C" />
-      <img src="https://iconic-api.onrender.com/dark/python" width="40px" title="Python" />
-      <img src="https://iconic-api.onrender.com/dark/html" width="40px" title="HTML" />
-      <img src="https://iconic-api.onrender.com/dark/css" width="40px" title="CSS" />
-    </td>
-    <td>
-      <img src="https://iconic-api.onrender.com/dark/git" width="40px" title="Git" />
-      <img src="https://iconic-api.onrender.com/dark/github" width="40px" title="GitHub" />
-    </td>
-    <td>
-      <img src="https://iconic-api.onrender.com/dark/canva" width="40px" title="Canva" />
-      <img src="https://iconic-api.onrender.com/dark/figma" width="40px" title="Figma" />
-    </td>
-    <td>
-      <img src="https://iconic-api.onrender.com/dark/pycharm" width="40px" title="PyCharm" />
-      <img src="https://iconic-api.onrender.com/dark/intellij" width="40px" title="IntelliJ" />
-      <img src="https://iconic-api.onrender.com/dark/clion" width="40px" title="CLion" />
-      <img src="https://iconic-api.onrender.com/dark/vscode" width="40px" title="VS Code" />
-    </td>
-  </tr>
-
-  <tr style="background-color: #f0f0f0;">
-    <th>🤖 AI & Productivity</th>
-    <th>📝 Blogging & Community</th>
-    <th>⚙️ Frameworks & Backend</th>
-    <th>🧠 ML Platforms</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://iconic-api.onrender.com/dark/github" width="40px" title="GitHub Copilot" />
-      <img src="https://iconic-api.onrender.com/dark/chatgpt" width="40px" title="ChatGPT" />
-      <img src="https://iconic-api.onrender.com/dark/gemini" width="40px" title="Gemini" />
-      <img src="https://iconic-api.onrender.com/dark/deepseek" width="40px" title="Deepseek" />
-    </td>
-    <td>
-      <img src="https://iconic-api.onrender.com/dark/leetcode" width="40px" title="LeetCode" />
-    </td>
-    <td>
-      <img src="https://iconic-api.onrender.com/dark/flask" width="40px" title="Flask" />
-      <img src="https://iconic-api.onrender.com/dark/react" width="40px" title="React" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40px" title="Kaggle" />
-      <img src="https://iconic-api.onrender.com/dark/tensorflow" width="40px" title="TensorFlow" />
-      <img src="https://iconic-api.onrender.com/dark/pytorch" width="40px" title="PyTorch" />
-      <img src="https://iconic-api.onrender.com/dark/jupyter" width="40px" title="Jupyter" />
-    </td>
-  </tr>
-
-  <!-- Hosting Section -->
-  <tr style="background-color: #e0f7fa; border-top: 2px solid #444;">
-    <th colspan="4">🌐 Hosting & Deployment</th>
-  </tr>
-  <tr style="background-color: #f9f9f9; border-bottom: 2px solid #444;">
-    <td colspan="4" style="text-align:center; padding: 10px;">
-      <img src="https://iconic-api.onrender.com/dark/vercel" width="40px" title="Vercel" />
-      <img src="https://iconic-api.onrender.com/dark/render" width="40px" title="Render" />
-      <img src="https://iconic-api.onrender.com/dark/netlify" width="40px" title="Netlify" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" width="40px" title="Railway" />
-    </td>
-  </tr>
+<table style="width: 100%; border-collapse: collapse; border: 2px solid #444; text-align: center;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="border: 1px solid #ccc; padding: 10px;">🟦 Languages</th>
+      <th style="border: 1px solid #ccc; padding: 10px;">🔧 Version Control</th>
+      <th style="border: 1px solid #ccc; padding: 10px;">🎨 Design</th>
+      <th style="border: 1px solid #ccc; padding: 10px;">💻 IDEs & Editors</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 10px;">
+        <img src="https://iconic-api.onrender.com/dark/java" width="40px" title="Java" />
+        <img src="https://iconic-api.onrender.com/dark/c" width="40px" title="C" />
+        <img src="https://iconic-api.onrender.com/dark/python" width="40px" title="Python" />
+        <img src="https://iconic-api.onrender.com/dark/html" width="40px" title="HTML" />
+        <img src="https://iconic-api.onrender.com/dark/css" width="40px" title="CSS" />
+      </td>
+      <td style="border: 1px solid #ccc; padding: 10px;">
+        <img src="https://iconic-api.onrender.com/dark/git" width="40px" title="Git" />
+        <img src="https://iconic-api.onrender.com/dark/github" width="40px" title="GitHub" />
+      </td>
+      <td style="border: 1px solid #ccc; padding: 10px;">
+        <img src="https://iconic-api.onrender.com/dark/canva" width="40px" title="Canva" />
+        <img src="https://iconic-api.onrender.com/dark/figma" width="40px" title="Figma" />
+      </td>
+      <td style="border: 1px solid #ccc; padding: 10px;">
+        <img src="https://iconic-api.onrender.com/dark/pycharm" width="40px" title="PyCharm" />
+        <img src="https://iconic-api.onrender.com/dark/intellij" width="40px" title="IntelliJ" />
+        <img src="https://iconic-api.onrender.com/dark/clion" width="40px" title="CLion" />
+        <img src="https://iconic-api.onrender.com/dark/vscode" width="40px" title="VS Code" />
+      </td>
+    </tr>
+    <tr style="background-color: #f2f2f2;">
+      <th style="border: 1px solid #ccc; padding: 10px;">🤖 AI & Productivity</th>
+      <th style="border: 1px solid #ccc; padding: 10px;">📝 Blogging & Community</th>
+      <th style="border: 1px solid #ccc; padding: 10px;">⚙️ Frameworks & Backend</th>
+      <th style="border: 1px solid #ccc; padding: 10px;">🧠 ML Platforms</th>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 10px;">
+        <img src="https://iconic-api.onrender.com/dark/github" width="40px" title="GitHub Copilot" />
+        <img src="https://iconic-api.onrender.com/dark/chatgpt" width="40px" title="ChatGPT" />
+        <img src="https://iconic-api.onrender.com/dark/gemini" width="40px" title="Gemini" />
+        <img src="https://iconic-api.onrender.com/dark/deepseek" width="40px" title="Deepseek" />
+      </td>
+      <td style="border: 1px solid #ccc; padding: 10px;">
+        <img src="https://iconic-api.onrender.com/dark/leetcode" width="40px" title="LeetCode" />
+      </td>
+      <td style="border: 1px solid #ccc; padding: 10px;">
+        <img src="https://iconic-api.onrender.com/dark/flask" width="40px" title="Flask" />
+        <img src="https://iconic-api.onrender.com/dark/react" width="40px" title="React" />
+      </td>
+      <td style="border: 1px solid #ccc; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40px" title="Kaggle" />
+        <img src="https://iconic-api.onrender.com/dark/tensorflow" width="40px" title="TensorFlow" />
+        <img src="https://iconic-api.onrender.com/dark/pytorch" width="40px" title="PyTorch" />
+        <img src="https://iconic-api.onrender.com/dark/jupyter" width="40px" title="Jupyter" />
+      </td>
+    </tr>
+    <tr style="background-color: #f2f2f2;">
+      <th colspan="4" style="border: 1px solid #ccc; padding: 12px; font-size: 18px;">🌐 Hosting & Deployment</th>
+    </tr>
+    <tr>
+      <td colspan="4" style="border: 2px solid #444; padding: 14px; background-color: #fff;">
+        <img src="https://iconic-api.onrender.com/dark/vercel" width="40px" title="Vercel" style="margin: 5px;" />
+        <img src="https://iconic-api.onrender.com/dark/render" width="40px" title="Render" style="margin: 5px;" />
+        <img src="https://iconic-api.onrender.com/dark/netlify" width="40px" title="Netlify" style="margin: 5px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" width="40px" title="Railway" style="margin: 5px;" />
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
