@@ -133,7 +133,7 @@
         </td>
         <td style="border: 1px solid #ccc; padding: 10px;">
           <img src="https://iconic-api.onrender.com/dark/leetcode" width="40px" title="LeetCode" />
-          <img src="https://iconic-api.onrender.com/dark/linkedin" width="40px" title="LinkedIn" />
+          <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" title="LinkedIn" />
         </td>
         <td style="border: 1px solid #ccc; padding: 10px;">
           <img src="https://iconic-api.onrender.com/dark/flask" width="40px" title="Flask" />
