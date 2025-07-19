@@ -84,9 +84,8 @@
 ---
 <h2>⚒️ My Skills & Utilities</h2>
 
-<table style="width:100%; border-collapse: collapse;">
-  <!-- Section 1 -->
-  <tr>
+<table style="width:100%; border-collapse: collapse; border: 2px solid #444;">
+  <tr style="background-color: #f0f0f0;">
     <th>🟦 Languages</th>
     <th>🔧 Version Control</th>
     <th>🎨 Design</th>
@@ -116,8 +115,7 @@
     </td>
   </tr>
 
-  <!-- Section 2 -->
-  <tr>
+  <tr style="background-color: #f0f0f0;">
     <th>🤖 AI & Productivity</th>
     <th>📝 Blogging & Community</th>
     <th>⚙️ Frameworks & Backend</th>
@@ -145,24 +143,20 @@
     </td>
   </tr>
 
-  <!-- Section 3 -->
-  <tr>
+  <!-- Hosting Section -->
+  <tr style="background-color: #e0f7fa; border-top: 2px solid #444;">
     <th colspan="4">🌐 Hosting & Deployment</th>
   </tr>
-  <tr>
-    <td>
+  <tr style="background-color: #f9f9f9; border-bottom: 2px solid #444;">
+    <td colspan="4" style="text-align:center; padding: 10px;">
       <img src="https://iconic-api.onrender.com/dark/vercel" width="40px" title="Vercel" />
       <img src="https://iconic-api.onrender.com/dark/render" width="40px" title="Render" />
-    </td>
-    <td>
       <img src="https://iconic-api.onrender.com/dark/netlify" width="40px" title="Netlify" />
-    </td>
-    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" width="40px" title="Railway" />
     </td>
-    <td></td>
   </tr>
 </table>
+
 ---
 
 ### 📊 GitHub Stats
