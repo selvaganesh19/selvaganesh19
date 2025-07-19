@@ -68,7 +68,7 @@
 
 <h3 align="left">💡 Skills & Current Learnings</h3>
 
-<ul align="right">
+<ul align="left">
   <li>🤖 <strong>Machine Learning & AI</strong><br>Core concepts, model training, and real-world applications.</li><br>
 
   <li>⚛️ <strong>React.js</strong><br>Component architecture, advanced patterns, and state management (Redux, Context, Zustand).</li><br>
