@@ -36,7 +36,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/selvaganesh-velayutham-025bb1284" target="_blank">
-    <img src="./linkedin.png" width="40" height="40" alt="LinkedIn" />
+    <img src="./linkedin.png" width="40" height="40" alt="Linkedin" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
