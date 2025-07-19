@@ -14,8 +14,31 @@
 🌐 Open to **collaborations** on exciting **Website Development** and creative projects. 
 
 ---
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_selvxsh.__)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selvaganesh-velayutham-025bb1284/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:selvavelayutham395@gmail.com) 
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+
+<a href="selvavelayutham395@gmail.com" target="_blank"> 
+<img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/_selvxsh.__" target="_blank"> 
+<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.githubcom/selvaganesh19" target="_blank"> 
+<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/selvaganesh-velayutham-025bb1284" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://selvaganesh19.github.io/Portfolio-React/" target="_blank">
+<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
+</a>
+</div>
+<br/>
+
 
 ✨ _Let’s connect and build something awesome together!_ ✨
 
