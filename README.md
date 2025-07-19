@@ -3,7 +3,7 @@
 ---
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=selvaganesh19.selagvanesh19&color=00cf00)
 
-# 👋 Hello, I’m Selvaganesh
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'M Selva!
 
 🎨 I’m a passionate **Front-End Developer** focused on crafting beautiful, responsive, and user-friendly websites.  
 🤖 Currently learning and exploring **Artificial Intelligence & Machine Learning** to enhance digital experiences.  
