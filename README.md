@@ -143,7 +143,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40px" title="Kaggle" />
           <img src="https://iconic-api.onrender.com/dark/tensorflow" width="40px" title="TensorFlow" />
           <img src="https://iconic-api.onrender.com/dark/pytorch" width="40px" title="PyTorch" />
-          <img src="https://iconic-api.onrender.com/dark/jupyter" width="40px" title="Jupyter" />
+          <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40px" title="Google Colab" />
         </td>
       </tr>
       <tr style="background-color: #f2f2f2;">
