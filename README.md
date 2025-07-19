@@ -85,6 +85,7 @@
 <h2>⚒️ My Skills & Utilities</h2>
 
 <table style="width:100%; border-collapse: collapse;">
+  <!-- Section 1 -->
   <tr>
     <th>🟦 Languages</th>
     <th>🔧 Version Control</th>
@@ -115,6 +116,7 @@
     </td>
   </tr>
 
+  <!-- Section 2 -->
   <tr>
     <th>🤖 AI & Productivity</th>
     <th>📝 Blogging & Community</th>
@@ -143,16 +145,22 @@
     </td>
   </tr>
 
+  <!-- Section 3 -->
   <tr>
     <th colspan="4">🌐 Hosting & Deployment</th>
   </tr>
   <tr>
-    <td colspan="4" style="text-align:center;">
+    <td>
       <img src="https://iconic-api.onrender.com/dark/vercel" width="40px" title="Vercel" />
       <img src="https://iconic-api.onrender.com/dark/render" width="40px" title="Render" />
+    </td>
+    <td>
       <img src="https://iconic-api.onrender.com/dark/netlify" width="40px" title="Netlify" />
+    </td>
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" width="40px" title="Railway" />
     </td>
+    <td></td>
   </tr>
 </table>
 ---
