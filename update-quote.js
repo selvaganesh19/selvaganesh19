@@ -18,7 +18,7 @@ async function updateQuote() {
     let readmeContent = fs.readFileSync(readmePath, 'utf-8');
 
     readmeContent = readmeContent.replace(
-      /<!--STARTS_HERE_QUOTE_CARD-->(.|\n)*<!--ENDS_HERE_QUOTE_CARD-->/,
+      /<!--STARTS_HERE_QUOTE_CARD-->[\s\S]*?<!--ENDS_HERE_QUOTE_CARD-->/,
       cardDesign
     );
 
