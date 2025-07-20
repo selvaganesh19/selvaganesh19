@@ -1,4 +1,4 @@
-name: Update Quote
+name: 🔁 Update Quote
 
 on:
   workflow_dispatch:  #Manually trigger the workflow
@@ -26,8 +26,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and push changes
+      - name: 📤 Commit and push changes
         run: |
+          git config --global user.name 'selvaganesh19'
+          git config --global user.email 'selvavelayutham395@gmail.com'
           git add README.md
-          git -c user.name='selvaganesh19' -c user.email='selvavelayutham395@gmail.com' commit -m "Update README with daily quote" -a
+          git diff --cached --quiet || git commit -m "🔁 Update README with daily quote"
           git push
