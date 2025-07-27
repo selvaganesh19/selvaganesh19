@@ -7,22 +7,19 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="27"/> 𝗜'𝗺 𝗦𝗲𝗹𝘃𝗮 ✨
 
-<table>
-  <tr>
-    <td align="left">
-      <h3>🎨 I’m a passionate <strong>Front-End Developer</strong></h3>
-      <p>Focused on crafting beautiful, responsive, and user-friendly websites.</p>
-      <h3>🤖 Currently learning <strong>AI & ML</strong></h3>
-      <p>Exploring Artificial Intelligence to enhance digital experiences.</p>
-      <h3>🌐 Open to <strong>collaborations</strong></h3>
-      <p>Excited to work on Website Development and creative projects.</p>
-    </td>
-    <td align="right">
-      <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400" alt="Developer GIF"/>
-    </td>
-  </tr>
-</table>
- 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+    <h3>🎨 I’m a passionate <strong>Front-End Developer</strong></h3>
+    <p>Focused on crafting beautiful, responsive, and user-friendly websites.</p>
+    <h3>🤖 Currently learning <strong>AI & ML</strong></h3>
+    <p>Exploring Artificial Intelligence to enhance digital experiences.</p>
+    <h3>🌐 Open to <strong>collaborations</strong></h3>
+    <p>Excited to work on Website Development and creative projects.</p>
+  </div>
+  <div style="flex-shrink: 0;">
+    <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300" alt="Developer GIF"/>
+  </div>
+</div>
 
 ---
 
