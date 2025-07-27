@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝗜'𝗺 𝗦𝗲𝗹𝘃𝗮 ✨
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> 𝗜'𝗺 𝗦𝗲𝗹𝘃𝗮 ✨
 
 🎨 I’m a passionate **Front-End Developer** focused on crafting beautiful, responsive, and user-friendly websites.  
 🤖 Currently learning and exploring **Artificial Intelligence & Machine Learning** to enhance digital experiences.  
