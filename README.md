@@ -7,27 +7,21 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="27"/> 𝗜'𝗺 𝗦𝗲𝗹𝘃𝗮 ✨
 
-<table style="width: 100%;">
+<table>
   <tr>
-    <!-- Left Side: Text Content -->
-    <td style="width: 70%; vertical-align: top;">
-      <h3>🎨 <strong>I’m a passionate Front-End Developer</strong></h3>
+    <td style="vertical-align: top; width: 70%;">
+      <h3>🎨 I’m a passionate <strong>Front-End Developer</strong></h3>
       <p>Focused on crafting beautiful, responsive, and user-friendly websites.</p>
-
-      <h3>🤖 <strong>Currently learning AI & ML</strong></h3>
+      <h3>🤖 Currently learning <strong>AI & ML</strong></h3>
       <p>Exploring Artificial Intelligence to enhance digital experiences.</p>
-
-      <h3>🌐 <strong>Open to collaborations</strong></h3>
+      <h3>🌐 Open to <strong>collaborations</strong></h3>
       <p>Excited to work on Website Development and creative projects.</p>
     </td>
-
-    <!-- Right Side: GIF -->
-    <td style="width: 30%; vertical-align: top; text-align: right; padding-left: 20px;">
-      <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Developer GIF" style="max-width: 300px; width: 100%;"/>
+    <td style="text-align: right; vertical-align: top;">
+      <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300" alt="Developer GIF"/>
     </td>
   </tr>
 </table>
-
 
 ---
 
