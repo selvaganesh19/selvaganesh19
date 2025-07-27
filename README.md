@@ -9,7 +9,6 @@
 
 <table>
   <tr>
-    <!-- Text Content -->
     <td align="left" valign="top" width="70%">
       <h3>🎨 <strong>I’m a passionate Front-End Developer</strong></h3>
       <p>Focused on crafting beautiful, responsive, and user-friendly websites.</p>
@@ -20,14 +19,11 @@
       <h3>🌐 <strong>Open to collaborations</strong></h3>
       <p>Excited to work on Website Development and creative projects.</p>
     </td>
-
-    <!-- GIF -->
     <td align="right" valign="top" style="padding-left: 30px;">
       <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300" alt="Developer GIF" />
     </td>
   </tr>
 </table>
-
 
 ---
 
