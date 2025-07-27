@@ -7,14 +7,14 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="27"/> 𝗜'𝗺 𝗦𝗲𝗹𝘃𝗮 ✨
 
-**<table>
+<table>
   <tr>
     <td style="vertical-align: top; width: 70%;">
-      <h3>🎨 I’m a passionate <strong>Front-End Developer</strong></h3>
+      <h3>🎨 I’m a passionate <strong>**Front-End Developer**</strong></h3>
       <p>Focused on crafting beautiful, responsive, and user-friendly websites.</p>
-      <h3>🤖 Currently learning <strong>AI & ML</strong></h3>
+      <h3>🤖 Currently learning <strong>**AI & ML**</strong></h3>
       <p>Exploring Artificial Intelligence to enhance digital experiences.</p>
-      <h3>🌐 Open to <strong>collaborations</strong></h3>
+      <h3>🌐 Open to <strong>**collaborations**</strong></h3>
       <p>Excited to work on Website Development and creative projects.</p>
     </td>
     <td style="text-align: right; vertical-align: top;">
@@ -22,7 +22,7 @@
     </td>
   </tr>
 </table>
-**
+
 
 ---
 
