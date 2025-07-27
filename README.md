@@ -10,7 +10,7 @@
 <table style="width: 100%;">
   <tr>
     <!-- Left Side: Text Content -->
-    <td style="width: 75%; vertical-align: top;">
+    <td style="width: 70%; vertical-align: top;">
       <h3>🎨 <strong>I’m a passionate Front-End Developer</strong></h3>
       <p>Focused on crafting beautiful, responsive, and user-friendly websites.</p>
 
@@ -22,8 +22,8 @@
     </td>
 
     <!-- Right Side: GIF -->
-    <td style="width: 25%; vertical-align: top; text-align: right;">
-      <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100%" alt="Developer GIF"/>
+    <td style="width: 30%; vertical-align: top; text-align: right; padding-left: 20px;">
+      <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Developer GIF" style="max-width: 300px; width: 100%;"/>
     </td>
   </tr>
 </table>
