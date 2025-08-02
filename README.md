@@ -5,7 +5,7 @@
 
 
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="27"/> 𝗜'𝗺 𝗦𝗲𝗹𝘃𝗮 ✨ ---
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="27"/> 𝗜'𝗺 𝗦𝗲𝗹𝘃𝗮 ✨ -
 
 <table>
   <tr>
