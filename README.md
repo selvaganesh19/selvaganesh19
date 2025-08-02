@@ -218,11 +218,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Peter%20Drucker&quote=Trying%20to%20predict%20the%20future%20is%20like%20trying%20to%20drive%20down%20a%20country%20road%20at%20night%20with%20no%20lights%20while%20looking%20out%20the%20back%20window.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20Faulkner&quote=You%20cannot%20swim%20for%20new%20horizons%20until%20you%20have%20courage%20to%20lose%20sight%20of%20the%20shore.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
