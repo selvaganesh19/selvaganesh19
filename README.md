@@ -11,7 +11,7 @@
   <tr>
     <td style="vertical-align: top; width: 70%;">
       <h3>🎨 I’m a passionate <strong>Front-End Developer</strong></h3>
-      <p>Focused on crafting beautiful, responsive, and user-friendly websites.</p> -
+      <p>Focused on crafting beautiful, responsive, and user-friendly websites.</p>
       <h3>🤖 Currently learning <strong>AI & ML</strong></h3>
       <p>Exploring Artificial Intelligence to enhance digital experiences.</p>
       <h3>🌐 Open to <strong>collaborations</strong></h3>
