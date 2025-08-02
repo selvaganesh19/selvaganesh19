@@ -87,7 +87,7 @@
 
   <li>🧠 <strong>Deep Learning</strong><br>Model building using TensorFlow and PyTorch.</li><br>
 
-  <li>🛠️ <strong>DevOps</strong><br>Docker, Kubernetes, and CI/CD pipeline basicsssss.</li>
+  <li>🛠️ <strong>DevOps</strong><br>Docker, Kubernetes, and CI/CD pipeline basicssss.</li>
 </ul>
 
 
