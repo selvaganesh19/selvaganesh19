@@ -1,9 +1,9 @@
 name: 🔁 Update Quote
 
 on:
-  workflow_dispatch:  #Manually trigger the workflow
+  workflow_dispatch:  # Manually trigger the workflow
   schedule:
-    - cron: '31 18 * * *'  # Schedule daily at 12:01 AM Indian Time
+    - cron: '31 18 * * *'  # Runs daily at 12:01 AM IST (Indian time)
 
 jobs:
   update-readme:
@@ -31,5 +31,5 @@ jobs:
           git config --global user.name 'selvaganesh19'
           git config --global user.email '152356364+selvaganesh19@users.noreply.github.com'
           git add README.md
-          git diff --cached --quiet || git commit -m "🔁 Update README with daily quote"
+          git diff --cached --quiet || git commit --author="selvaganesh19 <152356364+selvaganesh19@users.noreply.github.com>" -m "🔁 Update README with daily quote"
           git push
