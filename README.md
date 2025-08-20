@@ -202,16 +202,15 @@
 ---
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=header"/>
-</p>
-
-
 
 
 
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=header"/>
+</p>
+
 <h2 align="left">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 
