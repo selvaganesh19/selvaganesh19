@@ -258,11 +258,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Simon%20Sinek&quote=It%20is%20better%20to%20disappoint%20people%20with%20the%20truth%20than%20to%20appease%20them%20with%20a%20lie.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Spurgeon&quote=It%20is%20not%20how%20much%20we%20have%2C%20but%20how%20much%20we%20enjoy%2C%20that%20makes%20happiness.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
