@@ -66,7 +66,7 @@
 </p>
 
 ---
-
+ <!-- Video fallback 
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
@@ -74,6 +74,23 @@
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 <br />
+-->
+
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.mp4" type="video/mp4">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.mp4" type="video/mp4">
+
+  <!-- Video fallback -->
+  <video autoplay loop muted playsinline align="left" width="300">
+    <source src="./Skills_Animation_White.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</picture>
+
+<br />
+
 
 <h3 align="left">💡 Skills & Current Learnings</h3>
 
