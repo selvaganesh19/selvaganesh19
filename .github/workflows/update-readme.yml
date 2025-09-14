@@ -1,0 +1,37 @@
+name: ♻️ Smart Auto Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # every hour (UTC). Change to "0 0 * * *" for daily
+  workflow_dispatch:       # manual run option
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update README Stats (with timestamp)
+        run: |
+          ts=$(date +%s)
+          sed -i "s|github-readme-stats.vercel.app/api?username=.*|github-readme-stats.vercel.app/api?username=selvaganesh19\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&t=$ts|" README.md
+          sed -i "s|github-readme-stats.vercel.app/api/top-langs.*|github-readme-stats.vercel.app/api/top-langs/?username=selvaganesh19\&theme=dark\&hide_border=false\&layout=compact\&t=$ts|" README.md
+          sed -i "s|github-readme-streak-stats.herokuapp.com/.*|github-readme-streak-stats.herokuapp.com/?user=selvaganesh19\&theme=dark\&hide_border=false\&t=$ts|" README.md
+          sed -i "s|github-readme-activity-graph.vercel.app/.*|github-readme-activity-graph.vercel.app/graph?username=selvaganesh19\&theme=react-dark\&hide_border=false\&t=$ts|" README.md
+
+      - name: Check for changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "No changes detected, skipping commit."
+            exit 0
+          fi
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "🔄 Auto-update GitHub stats"
+          git push
