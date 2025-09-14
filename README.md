@@ -183,20 +183,14 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvaganesh19&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=selvaganesh19&theme=dark&hide_border=false" alt="Streak Stats" />
-  <!--END_SECTION:stats-->
-
 </div>
-
-
 
 ---
 
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=selvaganesh19&theme=dark&hide_border=false" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=selvaganesh19&theme=dark&hide_border=false" alt="Streak Stats" />
 </p>
 
 
