@@ -182,7 +182,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=selvaganesh19&theme=dark&hide_border=false&cache_seconds=1800&v=3" alt="GitHub Stats" />
       </td>
       <td style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvaganesh19&theme=dark&hide_border=false&layout=compact&cache_seconds=1800&v=3" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvaganesh19&theme=dark&hide_border=false&layout=compact&cache_seconds=600&v=3" alt="Top Languages" />
       </td>
     </tr>
   </table>
