@@ -176,32 +176,19 @@
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td style="padding: 10px;">
-        <!-- GitHub Stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=selvaganesh19&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td style="padding: 10px;">
-        <!-- Top Languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvaganesh19&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" style="padding: 10px;">
-        <!-- Streak Stats -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=selvaganesh19&theme=dark&hide_border=false" alt="Streak Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" style="padding: 10px;">
-        <!-- Contribution Graph -->
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=selvaganesh19&theme=react-dark&hide_border=false" alt="Contribution Graph" />
-      </td>
-    </tr>
-  </table>
+  <!--START_SECTION:stats-->
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=selvaganesh19&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvaganesh19&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=selvaganesh19&theme=dark&hide_border=false" alt="Streak Stats" />
+  <!--END_SECTION:stats-->
 
 </div>
+
 
 
 ---
