@@ -176,23 +176,24 @@
 
 <div align="center">
 
-  <!--START_SECTION:stats-->
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=selvaganesh19&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvaganesh19&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+  <table>
+    <tr>
+      <td style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=selvaganesh19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800&v=1" alt="GitHub Stats" />
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvaganesh19&theme=dark&hide_border=false&layout=compact&cache_seconds=1800&v=1" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
 </div>
-
----
 
 ### 🔥 Contribution Streak
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=selvaganesh19&theme=dark&hide_border=false" alt="Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=selvaganesh19&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&fire=FF4500&ring=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=AAAAAA&v=1" alt="Streak Stats" />
 </p>
-
 
 ---
 
