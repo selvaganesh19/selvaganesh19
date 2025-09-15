@@ -192,7 +192,7 @@
 ### 🔥 Contribution Streak
 
 <p align="center">
-    <img src="https://github-readme-streak-stats-fast.herokuapp.com/?user=selvaganesh19&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=0&v=3" alt="Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=selvaganesh19&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=600&v=3" alt="Streak Stats" />
 </p>
 
 
