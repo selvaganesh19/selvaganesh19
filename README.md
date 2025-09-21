@@ -279,11 +279,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Anne%20Frank&quote=In%20the%20long%20run%2C%20the%20sharpest%20weapon%20of%20all%20is%20a%20kind%20and%20gentle%20spirit.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Nelson%20Mandela&quote=Everyone%20can%20rise%20above%20their%20circumstances%20and%20achieve%20success%20if%20they%20are%20dedicated%20to%20and%20passionate%20about%20what%20they%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
