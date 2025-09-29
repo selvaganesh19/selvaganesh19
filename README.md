@@ -287,11 +287,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nicolas%20Chamfort&quote=Society%20is%20composed%20of%20two%20great%20classes%20those%20who%20have%20more%20dinners%20than%20appetite%2C%20and%20those%20who%20have%20more%20appetite%20than%20dinners.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=Progress%20comes%20to%20those%20who%20train%20and%20train%3B%20reliance%20on%20secret%20techniques%20will%20get%20you%20nowhere.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
