@@ -28,23 +28,18 @@ jobs:
 
       - name: 📤 Commit and push changes
         run: |
-          # Configure Git
           git config --global user.name 'selvaganesh19'
           git config --global user.email 'selvavelayutham395@gmail.com'
 
-          # Authenticate with GitHub using token
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-
-          # Ensure we are on the correct branch
-          git checkout ${GITHUB_REF##*/}
-
-          # Pull latest changes to avoid conflicts
-          git pull origin ${GITHUB_REF##*/} --rebase
-
+          
+          # Ensure we are on main branch
+          git checkout main
+          
           # Stage and commit changes if any
           git add README.md
           git diff --cached --quiet || git commit --author="selvaganesh19 <selvavelayutham395@gmail.com>" -m "🔁 Update README with daily quote"
-
-          # Push changes to origin
-          git push origin ${GITHUB_REF##*/}
+          
+          # Push changes
+          git push origin main
 
