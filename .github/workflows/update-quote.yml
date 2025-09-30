@@ -29,7 +29,7 @@ jobs:
       - name: 📤 Commit and push changes
         run: |
           git config --global user.name 'selvaganesh19'
-          git config --global user.email '152356364+selvaganesh19@users.noreply.github.com'
+          git config --global user.email 'selvavelayutham395@gmail.com'
           git add README.md
-          git diff --cached --quiet || git commit --author="selvaganesh19 <152356364+selvaganesh19@users.noreply.github.com>" -m "🔁 Update README with daily quote"
+          git diff --cached --quiet || git commit --author="selvaganesh19 <selvavelayutham395@gmail.com>" -m "🔁 Update README with daily quote"
           git push
