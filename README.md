@@ -309,11 +309,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Billie%20Jean%20King&quote=I%20think%20self-awareness%20is%20probably%20the%20most%20important%20thing%20towards%20being%20a%20champion.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=A%20moving%20door%20hinge%20never%20corrodes.%20Flowing%20water%20never%20grows%20stagnant.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
