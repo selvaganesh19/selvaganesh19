@@ -316,11 +316,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20Hawking&quote=Never%20give%20up%20work.%20Work%20gives%20you%20meaning%20and%20purpose%20and%20life%20is%20empty%20without%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dalai%20Lama&quote=If%20you%20want%20others%20to%20be%20happy%2C%20practice%20compassion.%20If%20you%20want%20to%20be%20happy%2C%20practice%20compassion.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
