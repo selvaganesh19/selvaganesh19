@@ -196,7 +196,7 @@
 
 <div align="center">
 
-![Streak](https://github-readme-stats.vercel.app/api/streak?username=selvaganesh19&show_icons=true&theme=radical&v=1)
+![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=selvaganesh19&show_icons=true&theme=radical&v=1)
 
 </div>
 
