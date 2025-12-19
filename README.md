@@ -179,10 +179,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=selvaganesh19&show_icons=true&theme=radical&v=1" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=selvaganesh19&show_icons=true&theme=dracula&v=1" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=selvaganesh19&layout=compact&theme=radical&v=1" alt="Top Languages" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=selvaganesh19&layout=compact&theme=dracula&v=1" alt="Top Languages" />
       </td>
     </tr>
   </table>
