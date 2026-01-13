@@ -395,11 +395,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Meister%20Eckhart&quote=Only%20the%20hand%20that%20erases%20can%20write%20the%20true%20thing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alfred%20Adler&quote=Meanings%20are%20not%20determined%20by%20situations%2C%20but%20we%20determine%20ourselves%20by%20the%20meanings%20we%20give%20to%20situations.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
