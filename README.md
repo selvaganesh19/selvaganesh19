@@ -396,11 +396,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alfred%20Adler&quote=Meanings%20are%20not%20determined%20by%20situations%2C%20but%20we%20determine%20ourselves%20by%20the%20meanings%20we%20give%20to%20situations.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=It%20is%20startling%20to%20realize%20how%20much%20unbelief%20is%20necessary%20to%20make%20belief%20possible.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
