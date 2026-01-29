@@ -411,11 +411,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=You'll%20see%20it%20when%20you%20believe%20it.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucius&quote=I%20hear%20and%20I%20forget.%20I%20see%20and%20I%20remember.%20I%20do%20and%20I%20understand.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
