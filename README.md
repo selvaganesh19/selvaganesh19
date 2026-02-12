@@ -424,11 +424,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elvis%20Presley&quote=Values%20are%20like%20fingerprints.%20Nobody's%20are%20the%20same%2C%20but%20you%20leave%20'em%20all%20over%20everything%20you%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=Loyalty%20and%20devotion%20lead%20to%20bravery.%20Bravery%20leads%20to%20the%20spirit%20of%20self-sacrifice.%20The%20spirit%20of%20self-sacrifice%20creates%20trust%20in%20the%20power%20of%20love.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
