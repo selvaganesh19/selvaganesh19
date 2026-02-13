@@ -425,11 +425,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=Loyalty%20and%20devotion%20lead%20to%20bravery.%20Bravery%20leads%20to%20the%20spirit%20of%20self-sacrifice.%20The%20spirit%20of%20self-sacrifice%20creates%20trust%20in%20the%20power%20of%20love.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=Thinking%20is%20the%20hardest%20work%20there%20is.%20That%20is%20why%20so%20few%20people%20engage%20in%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
