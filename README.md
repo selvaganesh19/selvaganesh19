@@ -446,11 +446,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Watts&quote=No%20valid%20plans%20for%20the%20future%20can%20be%20made%20by%20those%20who%20have%20no%20capacity%20for%20living%20now.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thich%20Nhat%20Hanh&quote=We%20have%20more%20possibilities%20available%20in%20each%20moment%20than%20we%20realize.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
