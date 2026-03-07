@@ -80,9 +80,9 @@
 <ul align="left">
   <li>🤖 <strong>Machine Learning & AI</strong><br>Core concepts, model training, and real-world applications.</li><br>
 
-  <li>⚛️ <strong>React.js</strong><br>Component architecture, advanced patterns, and state management (Redux, Context, Zustand).</li><br>
+  <li>🔎 <strong>RAG</strong><br>Learning retrieval pipelines, embeddings, vector databases, and LLM integration using LangChain and Hugging Face.</li><br>
 
-  <li>☁️ <strong>Cloud Computing (AWS & Azure)</strong><br>Deployments, serverless functions, and storage solutions.</li><br>
+  <li>☁️ <strong>Cloud Computing (Azure.OpenAI)</strong><br>Deployments, serverless functions, and storage solutions.</li><br>
 
   <li>🧠 <strong>Deep Learning</strong><br>Model building using TensorFlow and PyTorch.</li><br>
 
