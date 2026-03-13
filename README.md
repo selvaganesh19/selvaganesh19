@@ -453,11 +453,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Beverly%20Sills&quote=There%20are%20no%20shortcuts%20to%20any%20place%20worth%20going.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Coco%20Chanel&quote=Guilt%20is%20perhaps%20the%20most%20painful%20companion%20of%20death.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
