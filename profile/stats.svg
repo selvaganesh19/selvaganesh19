@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Selvaganesh velayutham's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 156, Total Commits in 2026 : 2099, Total PRs: 134, Total Issues: 1, Contributed to (last year): 12</desc>
+        <desc id="descId">Total Stars Earned: 155, Total Commits in 2026 : 2099, Total PRs: 134, Total Issues: 1, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 74.90227207486487;
+        stroke-dashoffset: 75.00146199209874;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >156</text>
+      >155</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
