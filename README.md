@@ -470,11 +470,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=Your%20world%20is%20a%20living%20expression%20of%20how%20you%20are%20using%20and%20have%20used%20your%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=Remembering%20that%20you%20are%20going%20to%20die%20is%20the%20best%20way%20I%20know%20to%20avoid%20the%20trap%20of%20thinking%20you%20have%20something%20to%20lose.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
