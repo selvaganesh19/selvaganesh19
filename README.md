@@ -475,11 +475,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20David%20Thoreau&quote=I%20cannot%20make%20my%20days%20longer%20so%20I%20strive%20to%20make%20them%20better.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=Make%20peace%20within%2C%20and%20there%20will%20be%20no%20one%20who%20can%20overcome%20you.%20And%20no%20one%20you%20will%20wish%20to%20overcome.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
