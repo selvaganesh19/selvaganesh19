@@ -507,11 +507,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=W.%20Clement%20Stone&quote=Success%20is%20achieved%20and%20maintained%20by%20those%20who%20try%20and%20keep%20trying.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bodhidharma&quote=At%20every%20moment%20where%20language%20can't%20go%2C%20that's%20your%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
