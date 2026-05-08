@@ -509,11 +509,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jon%20Kabat-Zinn&quote=If%20we%20are%20honest%20with%20ourselves%2C%20most%20of%20us%20will%20have%20to%20admit%20that%20we%20live%20out%20our%20lives%20in%20an%20ocean%20of%20fear.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Benjamin%20Mays&quote=Whatever%20you%20do%2Cstrive%20to%20do%20it%20so%20well%20that%20no%20man%20living%20and%20no%20man%20dead%20and%20no%20man%20yet%20to%20be%20born%20could%20do%20it%20any%20better.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
