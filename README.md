@@ -545,11 +545,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=No%20one%20ever%20is%20defeated%20until%20defeat%20has%20been%20accepted%20as%20a%20reality.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ward%20Beecher&quote=There%20are%20more%20quarrels%20smothered%20by%20just%20shutting%20your%20mouth%2C%20and%20holding%20it%20shut%2C%20than%20by%20all%20the%20wisdom%20in%20the%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
