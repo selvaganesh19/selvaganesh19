@@ -106,7 +106,6 @@
     <tbody>
       <tr>
         <td style="border: 1px solid #ccc; padding: 10px;">
-          <img src="https://iconic-api.onrender.com/dark/java" width="40px" title="Java" />
           <img src="https://iconic-api.onrender.com/dark/c" width="40px" title="C" />
           <img src="https://iconic-api.onrender.com/dark/python" width="40px" title="Python" />
           <img src="https://iconic-api.onrender.com/dark/html" width="40px" title="HTML" />
