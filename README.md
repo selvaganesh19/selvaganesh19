@@ -91,84 +91,107 @@
 
 
 ---
-<h2 style="text-align: center;">⚒️ My Skills & Utilities</h2>
+<h2 align="center">⚒️ My Skills & Utilities</h2>
 
-<div style="display: flex; justify-content: center; padding: 20px;">
-  <table style="width: 100%; max-width: 1000px; border-collapse: collapse; border: 2px solid #444; text-align: center;">
-    <thead>
-      <tr style="background-color: #f2f2f2;">
-        <th style="border: 1px solid #ccc; padding: 10px;">🟦 Languages</th>
-        <th style="border: 1px solid #ccc; padding: 10px;">🔧 Version Control</th>
-        <th style="border: 1px solid #ccc; padding: 10px;">🎨 Design</th>
-        <th style="border: 1px solid #ccc; padding: 10px;">💻 IDEs & Editors</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="border: 1px solid #ccc; padding: 10px;">
-          <img src="https://iconic-api.onrender.com/dark/c" width="40px" title="C" />
-          <img src="https://iconic-api.onrender.com/dark/python" width="40px" title="Python" />
-          <img src="https://iconic-api.onrender.com/dark/html" width="40px" title="HTML" />
-          <img src="https://iconic-api.onrender.com/dark/css" width="40px" title="CSS" />
-        </td>
-        <td style="border: 1px solid #ccc; padding: 10px;">
-          <img src="https://iconic-api.onrender.com/dark/git" width="40px" title="Git" />
-          <img src="https://iconic-api.onrender.com/dark/github" width="40px" title="GitHub" />
-        </td>
-        <td style="border: 1px solid #ccc; padding: 10px;">
-          <img src="https://iconic-api.onrender.com/dark/canva" width="40px" title="Canva" />
-          <img src="https://iconic-api.onrender.com/dark/figma" width="40px" title="Figma" />
-        </td>
-        <td style="border: 1px solid #ccc; padding: 10px;">
-          <img src="https://iconic-api.onrender.com/dark/pycharm" width="40px" title="PyCharm" />
-          <img src="https://iconic-api.onrender.com/dark/intellij" width="40px" title="IntelliJ" />
-          <img src="https://iconic-api.onrender.com/dark/clion" width="40px" title="CLion" />
-          <img src="https://iconic-api.onrender.com/dark/vscode" width="40px" title="VS Code" />
-        </td>
-      </tr>
-      <tr style="background-color: #f2f2f2;">
-        <th style="border: 1px solid #ccc; padding: 10px;">🤖 AI & Productivity</th>
-        <th style="border: 1px solid #ccc; padding: 10px;">📝 Blogging & Community</th>
-        <th style="border: 1px solid #ccc; padding: 10px;">⚙️ Frameworks & Backend</th>
-        <th style="border: 1px solid #ccc; padding: 10px;">🧠 ML Platforms</th>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #ccc; padding: 10px;">
-          <img src="https://iconic-api.onrender.com/dark/github" width="40px" title="GitHub Copilot" />
-          <img src="https://iconic-api.onrender.com/dark/chatgpt" width="40px" title="ChatGPT" />
-          <img src="https://iconic-api.onrender.com/dark/gemini" width="40px" title="Gemini" />
-          <img src="https://iconic-api.onrender.com/dark/deepseek" width="40px" title="Deepseek" />
-        </td>
-        <td style="border: 1px solid #ccc; padding: 10px;">
-          <img src="https://iconic-api.onrender.com/dark/leetcode" width="40px" title="LeetCode" />
-          <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" title="LinkedIn" />
-        </td>
-        <td style="border: 1px solid #ccc; padding: 10px;">
-          <img src="https://iconic-api.onrender.com/dark/flask" width="40px" title="Flask" />
-          <img src="https://iconic-api.onrender.com/dark/react" width="40px" title="React" />
-        </td>
-        <td style="border: 1px solid #ccc; padding: 10px;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40px" title="Kaggle" />
-          <img src="https://iconic-api.onrender.com/dark/tensorflow" width="40px" title="TensorFlow" />
-          <img src="https://iconic-api.onrender.com/dark/pytorch" width="40px" title="PyTorch" />
-          <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40px" title="Google Colab" />
-        </td>
-      </tr>
-      <tr style="background-color: #f2f2f2;">
-        <th colspan="4" style="border: 1px solid #ccc; padding: 12px; font-size: 18px;">🌐 Hosting & Deployment</th>
-      </tr>
-      <tr>
-        <td colspan="4" style="border: 2px solid #444; padding: 14px; background-color: #fff;">
-          <img src="https://iconic-api.onrender.com/dark/vercel" width="40px" title="Vercel" style="margin: 5px;" />
-          <img src="https://iconic-api.onrender.com/dark/render" width="40px" title="Render" style="margin: 5px;" />
-          <img src="https://iconic-api.onrender.com/dark/netlify" width="40px" title="Netlify" style="margin: 5px;" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" width="40px" title="Railway" style="margin: 5px;" />
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<table align="center">
+<tr>
+<th width="25%" align="left">🟦 Languages</th>
+<th width="25%" align="left">🔧 Version Control</th>
+<th width="25%" align="left">🎨 Design</th>
+<th width="25%" align="left">💻 IDEs & Editors</th>
+</tr>
 
+<tr>
+<td align="left" valign="top">
+<img width="220" src="https://iconforge.praneshmadhan646.workers.dev/icons?i=python,c,html,css,js&theme=dark&perline=4&set=skill-icons,logos,devicon,simpleicons,simple-icons,vscode,catppuccin"/>
+</td>
+
+<td align="left" valign="top">
+<img width="220" src="https://iconforge.praneshmadhan646.workers.dev/icons?i=github,git,gitlfs&theme=light&perline=4&set=devicon,simpleicons,simple-icons,vscode,catppuccin"/>
+</td>
+
+<td align="left" valign="top">
+<img width="220" src="https://iconforge.praneshmadhan646.workers.dev/icons?i=canva,figma&theme=dark&perline=4&set=logos,devicon,simpleicons,simple-icons,vscode"/>
+</td>
+
+<td align="left" valign="top">
+<img width="220" src="https://iconforge.praneshmadhan646.workers.dev/icons?i=pycharm,intellij,clion,vs-code,jupyter,codeblocks&theme=dark&perline=4&set=logos,devicon,simpleicons,simple-icons,vscode"/>
+</td>
+</tr>
+
+<tr>
+<th align="left">🤖 AI & Productivity</th>
+<th align="left">📝 Community</th>
+<th align="left">⚙️ Frameworks & Backend</th>
+<th align="left">🧠 ML Platforms</th>
+</tr>
+
+<tr>
+
+<!-- AI -->
+<td align="left" valign="top">
+
+<!-- Dark icons -->
+<img width="220"
+src="https://iconforge.praneshmadhan646.workers.dev/icons?i=github-copilot,gemini,deepseek,claude,opencode,claudecode&theme=dark&perline=4&set=devicon,simpleicons,simple-icons,vscode,catppuccin"/>
+
+<br>
+
+<!-- Light icons -->
+<img width="110"
+src="https://iconforge.praneshmadhan646.workers.dev/icons?i=openai,antigravity&theme=light&perline=2&set=devicon,simpleicons,simple-icons,vscode,catppuccin"/>
+
+</td>
+
+<!-- Community -->
+<td align="left" valign="top">
+
+<img width="220"
+src="https://iconforge.praneshmadhan646.workers.dev/icons?i=leetcode,linkedin&theme=dark&perline=4&set=skill-icons,logos,devicon,simpleicons"/>
+
+</td>
+
+<!-- Backend -->
+<td align="left" valign="top">
+
+<!-- Dark -->
+<img width="220"
+src="https://iconforge.praneshmadhan646.workers.dev/icons?i=nodejs,fastapi,uv,supabase,sqlite,firebase,react&theme=dark&perline=4&set=devicon,simpleicons,simple-icons,vscode,catppuccin"/>
+
+<br>
+
+<!-- Flask -->
+<img width="55"
+src="https://iconforge.praneshmadhan646.workers.dev/icons?i=flask&theme=light&perline=1&set=devicon,simpleicons,simple-icons,vscode,catppuccin"/>
+
+</td>
+
+<!-- ML -->
+<td align="left" valign="top">
+
+<img width="220"
+src="https://iconforge.praneshmadhan646.workers.dev/icons?i=keras,tensorflow,pytorch,colab,huggingface,kaggle,gradio&theme=dark&perline=4&set=skill-icons,logos,devicon,simpleicons,simple-icons,vscode,catppuccin"/>
+
+</td>
+
+</tr>
+
+<tr>
+<th colspan="4" align="center">
+🌐 Hosting • Deployment • Automation
+</th>
+</tr>
+
+<tr>
+<td colspan="4" align="center">
+
+<img width="900"
+src="https://iconforge.praneshmadhan646.workers.dev/icons?i=render,railway,vercel,netlify,githubpages,githubaction,n8n,zapier&theme=dark&perline=8&set=skill-icons,logos,devicon,simpleicons,simple-icons,vscode,catppuccin"/>
+
+</td>
+</tr>
+
+</table>
 ---
 
 ### 📊 GitHub Stats
