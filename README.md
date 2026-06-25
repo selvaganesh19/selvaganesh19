@@ -115,7 +115,9 @@
 </td>
 
 <td align="left" valign="top">
-<img width="220" src="https://iconforge.praneshmadhan646.workers.dev/icons?i=pycharm,intellij,clion,vs-code,jupyter,codeblocks&theme=dark&perline=4&set=logos,devicon,simpleicons,simple-icons,vscode"/>
+<img width="220" src="https://iconforge.praneshmadhan646.workers.dev/icons?i=pycharm,intellij,clion,jupyter,codeblocks&theme=dark&perline=4&set=logos,devicon,simpleicons,simple-icons,vscode"/>
+
+<img width="45" src="https://iconforge.praneshmadhan646.workers.dev/icons?i=vs-code&theme=light&perline=2&set=devicon,simpleicons,simple-icons,vscode,catppuccin"/>
 </td>
 </tr>
 
