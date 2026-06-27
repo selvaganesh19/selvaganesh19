@@ -583,11 +583,13 @@ src="https://iconforge.praneshmadhan646.workers.dev/icons?i=render,railway,verce
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=The%20secret%20of%20getting%20started%20is%20breaking%20your%20complex%2C%20overwhelming%20tasks%20into%20small%20manageable%20tasks%2C%20and%20then%20starting%20on%20the%20first%20one.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Leaders%20think%20and%20talk%20about%20solutions.%20Followers%20think%20and%20talk%20about%20the%20problems.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
