@@ -610,11 +610,13 @@ src="https://iconforge.praneshmadhan646.workers.dev/icons?i=render,railway,verce
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=Surround%20yourself%20with%20only%20people%20who%20are%20going%20to%20lift%20you%20higher.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=Every%20blessing%20ignored%20becomes%20a%20curse.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
