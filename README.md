@@ -626,11 +626,13 @@ src="https://iconforge.praneshmadhan646.workers.dev/icons?i=render,railway,verce
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Rita%20Mae%20Brown&quote=If%20you're%20afraid%20to%20die%2C%20you're%20afraid%20to%20live.%20You%20can't%20have%20one%20without%20the%20other.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Leo%20Tolstoy&quote=It's%20much%20better%20to%20do%20good%20in%20a%20way%20that%20no%20one%20knows%20anything%20about%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
