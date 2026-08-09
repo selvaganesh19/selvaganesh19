@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Selvaganesh velayutham's GitHub Stats, Rank: A-</title>
+        <title id="titleId">Selvaganesh Velayutham's GitHub Stats, Rank: A-</title>
         <desc id="descId">Total Stars Earned: 158, Total Commits in 2026 : 1821, Total PRs: 135, Total Issues: 1, Contributed to (last year): 12</desc>
         <style>
           .header {
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Selvaganesh velayutham's GitHub Stats</text>
+      >Selvaganesh Velayutham's GitHub Stats</text>
     </g>
       </g>
     
