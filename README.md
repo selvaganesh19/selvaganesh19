@@ -648,11 +648,13 @@ src="https://iconforge.praneshmadhan646.workers.dev/icons?i=render,railway,verce
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mother%20Teresa&quote=We%20ourselves%20feel%20that%20what%20we%20are%20doing%20is%20just%20a%20drop%20in%20the%20ocean.%20But%20the%20ocean%20would%20be%20less%20because%20of%20that%20missing%20drop.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bette%20Midler&quote=The%20worst%20part%20of%20success%20is%20trying%20to%20find%20someone%20who%20is%20happy%20for%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
