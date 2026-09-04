@@ -652,11 +652,13 @@ src="https://iconforge.praneshmadhan646.workers.dev/icons?i=render,railway,verce
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Estee%20Lauder&quote=I%20didn't%20get%20there%20by%20wishing%20for%20it%20or%20hoping%20for%20it%2C%20but%20by%20working%20for%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20King&quote=Amateurs%20sit%20and%20wait%20for%20inspiration%2C%20the%20rest%20of%20us%20just%20get%20up%20and%20got%20to%20work.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
