@@ -654,11 +654,13 @@ src="https://iconforge.praneshmadhan646.workers.dev/icons?i=render,railway,verce
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=We%20don't%20stop%20playing%20because%20we%20grow%20old%3B%20we%20grow%20old%20because%20we%20stop%20playing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=The%20big%20secret%20in%20life%20is%20that%20there%20is%20no%20big%20secret.%20Whatever%20your%20goal%2C%20you%20can%20get%20there%20if%20you're%20willing%20to%20work.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
