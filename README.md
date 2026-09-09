@@ -657,11 +657,13 @@ src="https://iconforge.praneshmadhan646.workers.dev/icons?i=render,railway,verce
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Herbert%20Hoover&quote=Freedom%20is%20the%20open%20window%20through%20which%20pours%20the%20sunlight%20of%20the%20human%20spirit%20and%20human%20dignity.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=You%20must%20be%20willing%20to%20do%20what%20others%20won't%20do%2C%20to%20have%20what%20others%20won't%20have.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
