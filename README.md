@@ -1092,3 +1092,10 @@ src="https://iconforge.praneshmadhan646.workers.dev/icons?i=render,railway,verce
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
+
+### ☕ Support Me
+
+<a href="https://razorpay.me/@selvaganesh19" target="_blank">
+  <img src="https://img.shields.io/badge/Support%20Me-Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white"/>
+</a>
+
