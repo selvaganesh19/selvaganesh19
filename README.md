@@ -710,11 +710,13 @@ src="https://iconforge.praneshmadhan646.workers.dev/icons?i=render,railway,verce
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Emily%20Dickinson&quote=The%20soul%20should%20always%20stand%20ajar%2C%20ready%20to%20welcome%20the%20ecstatic%20experience.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Move%20out%20of%20your%20comfort%20zone.%20You%20can%20only%20grow%20if%20you%20are%20willing%20to%20feel%20awkward%20and%20uncomfortable%20when%20you%20try%20something%20new.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
