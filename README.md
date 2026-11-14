@@ -723,11 +723,13 @@ src="https://iconforge.praneshmadhan646.workers.dev/icons?i=render,railway,verce
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sun%20Tzu&quote=Victorious%20warriors%20win%20first%20and%20then%20go%20to%20war%2C%20while%20defeated%20warriors%20go%20to%20war%20first%20and%20then%20seek%20to%20win.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=The%20finish%20line%20is%20just%20the%20beginning%20of%20a%20whole%20new%20race.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
