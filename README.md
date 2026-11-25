@@ -733,11 +733,13 @@ src="https://iconforge.praneshmadhan646.workers.dev/icons?i=render,railway,verce
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Emily%20Dickinson&quote=We%20never%20know%20how%20high%20we%20are%20till%20we%20are%20called%20to%20rise.%20Then%20if%20we%20are%20true%20to%20form%20our%20statures%20touch%20the%20skies.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jiddu%20Krishnamurti&quote=It's%20beautiful%20to%20be%20alone.%20To%20be%20alone%20does%20not%20mean%20to%20be%20lonely.%20It%20means%20the%20mind%20is%20not%20influenced%20and%20contaminated%20by%20society.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
